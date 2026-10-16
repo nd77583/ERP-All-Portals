@@ -1,0 +1,3018 @@
+{
+  "lastUpdated": "2026-10-15T06:02:34.675Z",
+  "version": "1.0.0",
+  "siteConfig": {
+    "siteName": "Maharaja Bhupindra Singh Punjab Sports University",
+    "portalShortName": "State Sports Portal",
+    "accreditationTag": "PUNJAB ACT NO. 11 OF 2019 • NAAC A++ PREPAREDNESS MATRIX",
+    "helplinePhone": "+91-175-2920250",
+    "admissionHelpline": "+91-175-2920251",
+    "officialEmail": "registrar@mbspsu.ac.in",
+    "admissionEmail": "admissions@mbspsu.ac.in",
+    "address": "Mohindra Kothi, Mall Road, Patiala, Punjab - 147001, India",
+    "workingHours": "Monday - Friday: 09:00 AM - 05:00 PM (IST)",
+    "portalLiveUrl": "https://school-management-alpha-seven.vercel.app/",
+    "copyrightText": "© 2026 Maharaja Bhupindra Singh Punjab Sports University. All Rights Reserved.",
+    "emergencyContact": "1800-180-2026"
+  },
+  "home": {
+    "erpDispatch": {
+      "isEnabled": true,
+      "dispatchTitle": "DIRECTORATE OF ICT & ERP DISPATCH",
+      "items": [
+        {
+          "id": "erp-1",
+          "category": "EXAM TIMETABLE",
+          "message": "End-Semester Practical & Theory Examination Schedule released for B.P.Ed & M.Sc Sports Science.",
+          "url": "/academic",
+          "priority": "HIGH",
+          "date": "2026-05-24",
+          "isActive": true
+        },
+        {
+          "id": "erp-2",
+          "category": "ADMISSIONS 2025-26",
+          "message": "Physical Efficiency Tests & Sports Trial dates notified for Olympic Cadre admissions round 1.",
+          "url": "/admissions",
+          "priority": "HIGH",
+          "date": "2026-05-20",
+          "isActive": true
+        },
+        {
+          "id": "erp-3",
+          "category": "GLOBAL TENDER",
+          "message": "NIT-04/2026: Supply and commissioning of 3D Vicon Motion Capture and High-Speed Force Plates.",
+          "url": "/tenders",
+          "priority": "NORMAL",
+          "date": "2026-05-18",
+          "isActive": true
+        },
+        {
+          "id": "erp-4",
+          "category": "RESEARCH GRANT",
+          "message": "Sanction of ₹42.5 Cr Khelo India Centre of Excellence Grant for High-Altitude Simulation Chamber.",
+          "url": "/researchAndLabs",
+          "priority": "NORMAL",
+          "date": "2026-05-15",
+          "isActive": true
+        }
+      ]
+    },
+    "heroSection": {
+      "tagline": "PUNJAB ACT NO. 11 OF 2019 • NAAC A++ PREPAREDNESS MATRIX",
+      "mainHeadName": "Nurturing Olympic & National Champions Through Scientific Rigor.",
+      "subHeadName": "Maharaja Bhupinder Singh Punjab Sports University is the apex state institution engineering world-class athletes, biomechanists, and exercise physiologists via sovereign Olympic-tier training tracks and elite research institutes.",
+      "admissionsPhone": "+91-175-2920250",
+      "admissionsHelpText": "Direct Counselling & Trial Queries Desk",
+      "featureCard": {
+        "zoneName": "HIGH PERFORMANCE HUB • COMPLEX ALPHA",
+        "category": "OLYMPIC PREPARATION CADRE",
+        "title": "World Athletics Certified 8-Lane Synthetic Track & Biomechanics Complex",
+        "description": "Precision Mondo track, dual force plates, integrated 3D kinematic capture, and hypoxic conditioning rooms tailored for international athletes.",
+        "policyName": "Punjab State Sports Policy 2023",
+        "policyCode": "PSP-SEC-09A",
+        "approvalStatus": "GOVERNMENT SANCTIONED",
+        "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=1200"
+      },
+      "stats": [
+        {
+          "id": "stat-1",
+          "title": "TRACK",
+          "value": "Class 1",
+          "description": "IAAF Certified 400m",
+          "isActive": true
+        },
+        {
+          "id": "stat-2",
+          "title": "VICON 3D",
+          "value": "16 Cam",
+          "description": "High-Speed Motion Lab",
+          "isActive": true
+        },
+        {
+          "id": "stat-3",
+          "title": "GRANT",
+          "value": "₹42.5 Cr",
+          "description": "Khelo India CoE Grant",
+          "isActive": true
+        },
+        {
+          "id": "stat-4",
+          "title": "CADRE",
+          "value": "100%",
+          "description": "Govt Sports Quota Track",
+          "isActive": true
+        }
+      ]
+    },
+    "noticeBoard": {
+      "repositoryTag": "DIGITAL GOVERNANCE REPOSITORY",
+      "title": "Official Statutory Notice Board & Gazette",
+      "categories": [
+        "Academic & Statutory",
+        "Trials & Fixtures",
+        "Tenders & GeM",
+        "RTI & Disclosures"
+      ],
+      "notices": [
+        {
+          "id": "not-1",
+          "circularNumber": "CIRCULAR #942/EXAM",
+          "publishedDate": "2025-05-24",
+          "title": "End-Semester Examinations Date Sheet for B.P.Ed (Sem-II & IV)",
+          "description": "Theoretical and practical skill evaluation schedule released by the Controller of Examinations as per UGC model regulations.",
+          "issuedBy": "CONTROLLER OF EXAMS",
+          "actionLabel": "View Order",
+          "actionUrl": "#",
+          "tab": "Academic & Statutory",
+          "isActive": true
+        },
+        {
+          "id": "not-2",
+          "circularNumber": "NOTIFICATION #881/BOS",
+          "publishedDate": "2025-05-21",
+          "title": "Board of Studies: Integrated Kinesiology & Sports Nutrition Syllabi 2025",
+          "description": "Notification regarding credit transfer matrix under the National Credit Framework (NCrF) for active Olympic and Khelo India athletes.",
+          "issuedBy": "DEAN ACADEMICS",
+          "actionLabel": "View Order",
+          "actionUrl": "#",
+          "tab": "Academic & Statutory",
+          "isActive": true
+        },
+        {
+          "id": "not-3",
+          "circularNumber": "VIVA #04/PHD",
+          "publishedDate": "2025-05-19",
+          "title": "Public Viva-Voce: Ph.D Thesis in Exercise Biomechanics",
+          "description": "Open defence on \"Kinematic Optimization of Ground Reaction Forces in Elite High Jumpers using 3D Force Platforms\".",
+          "issuedBy": "RESEARCH BRANCH",
+          "actionLabel": "Join Session",
+          "actionUrl": "#",
+          "tab": "Academic & Statutory",
+          "isActive": true
+        },
+        {
+          "id": "not-4",
+          "circularNumber": "CIRCULAR #955/ADM",
+          "publishedDate": "2025-05-17",
+          "title": "Admission Counselling Schedule for M.Sc Sports Science",
+          "description": "Counselling dates, document verification list and seat matrix released by the Admissions Bureau for AY 2025-26.",
+          "issuedBy": "ADMISSIONS BUREAU",
+          "actionLabel": "View Order",
+          "actionUrl": "#",
+          "tab": "Academic & Statutory",
+          "isActive": true
+        },
+        {
+          "id": "not-5",
+          "circularNumber": "TENDER #NIT-04/2026",
+          "publishedDate": "2025-05-14",
+          "title": "Multi-Camera 3D High-Speed Motion Capture System with Dual Force Plates",
+          "description": "Global e-tender notice for state-of-the-art sports science laboratory equipment installation at Patiala Campus.",
+          "issuedBy": "REGISTRAR DESK",
+          "actionLabel": "Download RFP",
+          "actionUrl": "/tenders",
+          "tab": "Tenders & GeM",
+          "isActive": true
+        },
+        {
+          "id": "not-6",
+          "circularNumber": "FIXTURE #SP-31/2026",
+          "publishedDate": "2025-05-10",
+          "title": "Punjab State Inter-University Aquatics & Athletics Championship Fixtures",
+          "description": "Official fixtures, reporting timings, anti-doping clearance requisites and jury panel notification.",
+          "issuedBy": "DIRECTOR OF SPORTS",
+          "actionLabel": "View Fixtures",
+          "actionUrl": "/events",
+          "tab": "Trials & Fixtures",
+          "isActive": true
+        },
+        {
+          "id": "not-7",
+          "circularNumber": "RTI-Q4/STATUTORY",
+          "publishedDate": "2025-05-02",
+          "title": "Quarterly Proactive Disclosures under Section 4(1)(b) of RTI Act 2005",
+          "description": "Updated faculty rolls, audited expenditure statements and governance meeting minutes published for public scrutiny.",
+          "issuedBy": "CPIO SECRETARIAT",
+          "actionLabel": "View Disclosures",
+          "actionUrl": "/rti",
+          "tab": "RTI & Disclosures",
+          "isActive": true
+        }
+      ]
+    },
+    "programmes": {
+      "tag": "ACADEMIC PORTFOLIO",
+      "heading": "Specialized Degree & Professional Programmes",
+      "items": [
+        {
+          "id": "prog-1",
+          "programmeType": "UG • NCTE APPROVED",
+          "duration": "2 Years (4 Sems)",
+          "courseName": "Bachelor of Physical Education (B.P.Ed)",
+          "description": "Rigorous pedagogical and practical conditioning framework preparing certified physical educators, physical trainers, and sports administrators.",
+          "tags": [
+            "Athletic Pedagogy",
+            "Gymnastics & Track",
+            "Officiating"
+          ],
+          "seats": "Seats: 100 • 50% Sports Quota",
+          "facilities": [
+            "Sports Lab",
+            "Gymnasium",
+            "Field Training"
+          ],
+          "actionText": "Curriculum & Apply",
+          "actionUrl": "/academic",
+          "isActive": true
+        },
+        {
+          "id": "prog-2",
+          "programmeType": "PG • HIGH PERFORMANCE",
+          "duration": "2 Years (4 Sems)",
+          "courseName": "M.Sc Sports Science & Biomechanics",
+          "description": "Advanced specialization in 3D kinematic analysis, force distribution modeling, sports nutrition, and Olympic-grade exercise physiology.",
+          "tags": [
+            "3D Gait Kinematics",
+            "VO2 Max Kinetics",
+            "Ergonomics"
+          ],
+          "seats": "Seats: 40 • Vicon Lab Access",
+          "facilities": [
+            "Biomechanics Lab",
+            "Performance Analysis",
+            "Nutrition Lab"
+          ],
+          "actionText": "Curriculum & Apply",
+          "actionUrl": "/academic",
+          "isActive": true
+        },
+        {
+          "id": "prog-3",
+          "programmeType": "UG • 4-YEAR HONOURS",
+          "duration": "4 Years (8 Sems)",
+          "courseName": "B.Sc (Hons) Sports Science",
+          "description": "Undergraduate program blending human anatomy, strength & conditioning, performance analytics, and anti-doping protocols.",
+          "tags": [
+            "Strength & Conditioning",
+            "WADA Protocols",
+            "Rehab"
+          ],
+          "seats": "Seats: 60 • Merit + Trials",
+          "facilities": [
+            "Strength Lab",
+            "Sports Medicine",
+            "Athlete Monitoring"
+          ],
+          "actionText": "Curriculum & Apply",
+          "actionUrl": "/academic",
+          "isActive": true
+        },
+        {
+          "id": "prog-4",
+          "programmeType": "POST GRADUATE DIPLOMA",
+          "duration": "1 Year (2 Sems)",
+          "courseName": "PG Diploma in Sports Coaching (Athletics / Swimming / Cycling)",
+          "description": "NIS-aligned high-performance coaching credential focusing on periodization, tactical analytics, and talent identification.",
+          "tags": [
+            "NIS Aligned",
+            "Periodization",
+            "Talent ID"
+          ],
+          "seats": "Seats: 30 • Elite Coaches",
+          "facilities": [
+            "Olympic Track",
+            "Aquatic Centre",
+            "Velodrome"
+          ],
+          "actionText": "Curriculum & Apply",
+          "actionUrl": "/academic",
+          "isActive": true
+        }
+      ]
+    },
+    "frontDesk": {
+      "options": {
+        "programmes": [
+          {
+            "id": 1,
+            "name": "B.P.Ed"
+          },
+          {
+            "id": 2,
+            "name": "M.P.Ed"
+          },
+          {
+            "id": 3,
+            "name": "B.Sc Sports Science"
+          }
+        ],
+        "sports": [
+          {
+            "id": 1,
+            "name": "Archery"
+          },
+          {
+            "id": 2,
+            "name": "Badminton"
+          },
+          {
+            "id": 3,
+            "name": "Basketball"
+          },
+          {
+            "id": 4,
+            "name": "Boxing"
+          },
+          {
+            "id": 5,
+            "name": "Chess"
+          },
+          {
+            "id": 6,
+            "name": "Cricket"
+          },
+          {
+            "id": 7,
+            "name": "Cycling"
+          },
+          {
+            "id": 8,
+            "name": "Football"
+          },
+          {
+            "id": 9,
+            "name": "Gymnastics"
+          },
+          {
+            "id": 10,
+            "name": "Hockey"
+          },
+          {
+            "id": 11,
+            "name": "Kabaddi"
+          },
+          {
+            "id": 12,
+            "name": "Swimming"
+          },
+          {
+            "id": 13,
+            "name": "Table Tennis"
+          },
+          {
+            "id": 14,
+            "name": "Tennis"
+          },
+          {
+            "id": 15,
+            "name": "Volleyball"
+          },
+          {
+            "id": 16,
+            "name": "Wrestling"
+          }
+        ],
+        "achievementLevels": [
+          {
+            "id": 1,
+            "name": "School Level"
+          },
+          {
+            "id": 2,
+            "name": "District Level"
+          },
+          {
+            "id": 3,
+            "name": "State Level"
+          },
+          {
+            "id": 4,
+            "name": "National Level"
+          },
+          {
+            "id": 5,
+            "name": "International Level"
+          }
+        ],
+        "states": [
+          {
+            "id": 1,
+            "name": "Haryana"
+          },
+          {
+            "id": 2,
+            "name": "Punjab"
+          },
+          {
+            "id": 3,
+            "name": "Delhi"
+          },
+          {
+            "id": 4,
+            "name": "Himachal Pradesh"
+          },
+          {
+            "id": 5,
+            "name": "Rajasthan"
+          },
+          {
+            "id": 6,
+            "name": "Uttar Pradesh"
+          }
+        ],
+        "accommodations": [
+          {
+            "id": 1,
+            "name": "Residential Hall Required (Major Dhyan Chand Hall)"
+          },
+          {
+            "id": 2,
+            "name": "Day Scholar"
+          }
+        ]
+      },
+      "contacts": {
+        "hotlineTitle": "Admissions Hotline",
+        "hotlineNumber": "+91 (0175) 2920200",
+        "tollFreeNumber": "Toll-Free: 1800-180-2019",
+        "deskEmailTitle": "Desk Email",
+        "email": "admissions@mbspsu.ac.in",
+        "deskWing": "Front Desk Wing A"
+      },
+      "content": {
+        "complianceBadgeText": "FR-FD-01 TO FR-FD-07 COMPLIANT",
+        "sectionHeading": "Central Front Desk, Admissions CRM & Visitor Desk",
+        "sectionDescription": "Submit prospective student enquiries or pre-register for university campus visits. Submissions directly feed the university's central CRM queue with automated SMS and WhatsApp tracking acknowledgment.",
+        "visitCardTitle": "Pre-Register Campus Visit",
+        "visitCardSubtitle": "Instant Gate-Pass for Mohindra Kothi & NIS Campus",
+        "visitComplianceCode": "FR-FD-03",
+        "protocolTitle": "Security Gate Desk Protocol",
+        "qrDeliveryMessage": "Instant SMS QR Delivery on Submission",
+        "issuePassButtonLabel": "Issue Pass",
+        "securityCheckItems": [
+          "SMS Gate Notification",
+          "WhatsApp ERP Bot",
+          "Biometric Tagging"
+        ],
+        "confirmationMessage": "Instant confirmation dispatched via NIC SMS Gateway & Official WhatsApp CRM API.",
+        "confirmationSlaText": "SLA: < 30s"
+      }
+    },
+    "infrastructure": {
+      "tag": "SOVEREIGN SPORTS ASSETS",
+      "heading": "Olympic-Tier Campus Infrastructure",
+      "facilities": [
+        {
+          "id": "inf-1",
+          "name": "3D Vicon Motion Capture & Kinematic Analysis Facility",
+          "location": "Central Research Facility",
+          "specs": "Equipped with 16 Vicon Vantage cameras, dual Kistler multi-axis force platforms, and Noraxon wireless electromyography for millisecond neuromuscular profiling.",
+          "capacity": "Not specified",
+          "status": "Research Flagship",
+          "imageUrl": "/infrastructure/image1.svg"
+        },
+        {
+          "id": "inf-2",
+          "name": "50m 10-Lane Olympic Pool",
+          "location": "Aquatics Wing",
+          "specs": "Sub-aquatic high-speed strobe cameras for hydrodynamic drag reduction and stroke efficiency.",
+          "capacity": "Not specified",
+          "status": "Aquatics",
+          "imageUrl": "/infrastructure/image2.svg"
+        },
+        {
+          "id": "inf-3",
+          "name": "250m Siberian Pine Velodrome",
+          "location": "Cycling Pavilion",
+          "specs": "International Cycling Union (UCI) homologated steep banking for sprint and endurance squads.",
+          "capacity": "Not specified",
+          "status": "Cycling",
+          "imageUrl": "/infrastructure/image3.svg"
+        },
+        {
+          "id": "inf-4",
+          "name": "Cryo & Hydrotherapy Unit",
+          "location": "Sports Medicine Centre",
+          "specs": "Sub-zero whole body cryotherapy and contrast therapy baths to expedite recovery and reduce inflammation.",
+          "capacity": "Not specified",
+          "status": "Sports Medicine",
+          "imageUrl": "/infrastructure/image4.svg"
+        },
+        {
+          "id": "inf-5",
+          "name": "Major Dhyan Chand Hall",
+          "location": "Athlete Residences",
+          "specs": "Nutrient-calculated sports dining halls, recovery dormitories, and study wings.",
+          "capacity": "Not specified",
+          "status": "Residences",
+          "imageUrl": "/infrastructure/image5.svg"
+        },
+        {
+          "id": "inf-6",
+          "name": "Advanced Performance Training Hub",
+          "location": "Training Centre",
+          "specs": "Nutrient-calculated sports dining halls, recovery dormitories, and study wings.",
+          "capacity": "Not specified",
+          "status": "Training Center",
+          "imageUrl": "/infrastructure/image3.svg"
+        }
+      ]
+    },
+    "accessibilityBanner": {
+      "title": "Govt. of India GIGW 3.0 & WCAG 2.1 Level AA Compliance",
+      "description": "Official portal complies with STQC certification benchmarks. Screen reader accessible across English, Punjabi, and Hindi.",
+      "highContrastLabel": "High Contrast",
+      "screenReaderLabel": "Screen Reader",
+      "certificateLabel": "STQC CERTIFICATE"
+    }
+  },
+  "about": {
+    "heroBanner": {
+      "badges": [
+        {
+          "id": "statutory",
+          "text": "STATUTORY STATE SPORTS UNIVERSITY"
+        },
+        {
+          "id": "location",
+          "text": "EST. 2019 • PATIALA, PUNJAB"
+        },
+        {
+          "id": "apex",
+          "text": "APEX COLLEGIATE CENTER"
+        }
+      ],
+      "title": "A Sovereign Mandate for Olympic & Scientific Athletic Excellence",
+      "description": "Chartered under the Punjab State Legislature Act No. 11 of 2019, Maharaja Bhupinder Singh Punjab Sports University is India's preeminent public citadel for sports biomechanics, advanced kinesiology, Olympic podium conditioning, and dual-career academic pathways.",
+      "actions": [
+        {
+          "id": "governance",
+          "text": "Inspect Governance Matrix",
+          "href": "#"
+        },
+        {
+          "id": "campus",
+          "text": "Campus Masterplan & R&D Labs",
+          "href": "#"
+        }
+      ],
+      "verification": {
+        "eyebrow": "STATUTORY VERIFICATION",
+        "status": "UGC 2(f) Validated",
+        "rank": "Rank #1",
+        "description": "Dedicated Olympic feeder university in Northern India integrating physiological telemetry with collegiate degree conferrals.",
+        "slaLabel": "High-Performance SLA Adherence",
+        "slaValue": "99.4%",
+        "graph": "/about/hero-graph.png"
+      },
+      "metrics": [
+        {
+          "label": "ACTIVE CADRES",
+          "value": "14 Disciplines"
+        },
+        {
+          "label": "STATE GRANTS",
+          "value": "₹42.5 Cr CapEx"
+        }
+      ]
+    },
+    "fastFacts": [
+      {
+        "id": "faculty",
+        "value": "42+",
+        "label": "National & Olympian Coaches",
+        "detail": "SAI & NIS certified master trainers"
+      },
+      {
+        "id": "athletes",
+        "value": "1,400+",
+        "label": "Full-Time Enrolled Athletes",
+        "detail": "Undergraduate, PG & Doctoral Fellows"
+      },
+      {
+        "id": "investment",
+        "value": "₹42.5 Cr",
+        "label": "Olympic R&D & Tech CapEx",
+        "detail": "Equipped via Punjab Sports Mission"
+      },
+      {
+        "id": "sports",
+        "value": "24+",
+        "label": "Sports Disciplines",
+        "detail": "Across high-performance programmes"
+      }
+    ],
+    "viceChancellorMessage": {
+      "profile": {
+        "image": "/about/VC.png",
+        "imageAlt": "Vice-Chancellor",
+        "office": "EXECUTIVE OFFICE",
+        "name": "Prof. (Dr.) Lt. Gen. J.S. Cheema",
+        "role": "Vice-Chancellor, MBSPSU Patiala",
+        "credentials": "AVSM, VSM (Retd.) • Ph.D. Sports Pedagogy"
+      },
+      "communication": {
+        "badge": "EXECUTIVE COMMUNIQUÉ",
+        "reference": "Ref: MBSPSU/VC-COMM/2025/08",
+        "title": "Bridging Laboratory Biomechanics with International Podium Dominance",
+        "paragraphs": [
+          "The establishment of MBSPSU marks a paradigm shift in how India cultivates sporting excellence. For decades, sporting prowess in Punjab relied on innate raw valor and rural vitality. Today, modern competitive sport demands high-resolution telemetry, data-driven kinesiology, and academic rehabilitation sciences.",
+          "In strict compliance with National Education Policy (NEP-2020), MBSPSU has engineered sovereign credit frameworks that grant elite national athletes dual-career continuity. Our sports men and women will never again sacrifice their formal academic degree to wave the national tricolor in Olympic arenas."
+        ]
+      },
+      "signature": {
+        "title": "Digital Signature Certified (DSC)",
+        "hash": "SHA-256: 8f40b2a98e1e7c9920b7a48d... • Punjab e-Office Gateway",
+        "authenticated": "Authenticated: 12-FEB-2025 09:30:15 IST"
+      }
+    },
+    "historicalLegacy": {
+      "milestones": [
+        {
+          "year": "1911",
+          "description": "Captaincy of India's inaugural historic tour of England."
+        },
+        {
+          "year": "1934",
+          "description": "Founding institutional donor of the Ranji Trophy tournament."
+        },
+        {
+          "year": "2019",
+          "description": "Enactment of MBSPSU Punjab Act No. 11 by State Assembly."
+        }
+      ],
+      "stories": [
+        "Maharaja Bhupinder Singh was not merely a royal enthusiast; he transformed sports into institutional diplomacy. Under his patronage, the historic Patiala Polo Team dominated international circuits, and world-champion wrestler The Great Gama (Ghulam Mohammad Baksh) was trained and supported in the royal courts.",
+        "His donation of the celebrated Ranji Trophy in 1934 immortalized the royal house's contribution to cricket. In 2019, the Government of Punjab formally sanctified this lineage by establishing MBSPSU at the historic Mohindra Kothi campus, converting royal sporting ethos into modern sovereign science."
+      ]
+    },
+    "governanceBodies": [
+      {
+        "label": "CHANCELLOR",
+        "title": "Governor of Punjab",
+        "description": "Constitutional head and ultimate visitor of the university. Confers supreme statutory sanctions, assents to university statutes, and presides over annual convocations.",
+        "contact": "Raj Bhavan Secretariat",
+        "detail": "Apex Visitor",
+        "filters": [
+          "All Councils"
+        ]
+      },
+      {
+        "label": "CHIEF EXECUTIVE",
+        "title": "Vice-Chancellor & Executive Council",
+        "description": "Principal academic and administrative executive officer. Exercises direct jurisdiction over the administrative hierarchy, sports science faculties, and training centers.",
+        "contact": "Statutory Head of Syndicate",
+        "detail": "Standing Term",
+        "filters": [
+          "All Councils"
+        ]
+      },
+      {
+        "label": "LEGISLATIVE CORE",
+        "title": "The Syndicate",
+        "description": "Supreme executive authority of MBSPSU comprising Principal Secretary (Sports), Principal Secretary (Higher Education), Director Sports Punjab, and nominated scholars.",
+        "contact": "Quarterly Statutory Sessions",
+        "detail": "16 Members",
+        "filters": [
+          "All Councils",
+          "The Syndicate"
+        ]
+      },
+      {
+        "label": "CURRICULAR BODY",
+        "title": "Academic Council",
+        "description": "Regulates academic standards, curriculum architecture (NEP-2020), examinations, pedagogical research frameworks, and admission merit standards.",
+        "contact": "Dean Academic Affairs",
+        "detail": "24 Faculty Chairs",
+        "filters": [
+          "All Councils",
+          "Academic Council"
+        ]
+      },
+      {
+        "label": "AUDIT & FISCAL",
+        "title": "Finance & Planning Board",
+        "description": "Exercises fiduciary scrutiny over annual fiscal estimates, capital development projects, UGC recurring allocations, and Khelo India state center grants.",
+        "contact": "Finance Officer Secretarial",
+        "detail": "CAG / State Audited",
+        "filters": [
+          "All Councils"
+        ]
+      },
+      {
+        "label": "SPORTS ADVISORY",
+        "title": "Sports Advisory Board",
+        "description": "Comprises Olympic medalists, Arjuna awardees, biomechanics scientists, and high-performance directors guiding training doctrines and talent scouts.",
+        "contact": "Olympic Feeder Directorship",
+        "detail": "12 Olympians",
+        "filters": [
+          "All Councils",
+          "Sports Advisory"
+        ]
+      }
+    ],
+    "coreStrategies": [
+      {
+        "id": "athlete",
+        "title": "Elite Athlete Grooming",
+        "description": "Targeted individual development plans with high-load periodization cycles, Olympic standard strength & conditioning, and physiological threshold management.",
+        "link": "Microcycle Tracking"
+      },
+      {
+        "id": "biomechanics",
+        "title": "Biomechanical Optimization",
+        "description": "3D high-speed motion capture, force-plate vector analysis, and electromyography (EMG) telemetry to eliminate micro-inefficiencies in athletic execution.",
+        "link": "Kinematic Lab Protocols"
+      },
+      {
+        "id": "career",
+        "title": "Dual-Career Safeguards (NEP)",
+        "description": "Flexible Academic Bank of Credits (ABC), remote hybrid examinations during national camps, and recognized sports apprenticeships guaranteeing lifelong degree security.",
+        "link": "Academic Credit Transfer"
+      },
+      {
+        "id": "scouting",
+        "title": "Grassroots Scouting Matrix",
+        "description": "Mobile scientific testing vans deploying across all 23 districts of Punjab and neighboring states to detect raw anthropometric markers and explosive fast-twitch talent.",
+        "link": "District Outreach Portal"
+      }
+    ],
+    "campusMasterplan": {
+      "heading": "Campus Ecosystem & World-Class Facilities",
+      "eyebrow": "MULTI-CAMPUS ARCHITECTURE",
+      "description": "Spanning historic sovereign grounds, state-of-the-art training gymnasiums, and a massive 250-acre greenfield Olympic city.",
+      "address": "Patiala, Punjab, PIN: 147001",
+      "locations": [
+        {
+          "id": "mohindra",
+          "title": "Mohindra Kothi Campus",
+          "category": "ADMINISTRATIVE CITADEL",
+          "image": "/about/campus_img1.png",
+          "description": "Lower Mall Road, Patiala. Houses the Chancellor's Protocol, Vice-Chancellor's Secretariat, Registrar's Office, Statutory Board Rooms, and the Central Sports Library.",
+          "features": [
+            "VC Chambers",
+            "ERP Server Core",
+            "Syndicate Hall"
+          ],
+          "action": "View Building Blueprint"
+        },
+        {
+          "id": "gymnasium",
+          "title": "Gymnasium Road Training Complex",
+          "category": "HIGH-PERFORMANCE TRAINING",
+          "image": "/about/campus_img2.png",
+          "description": "Dedicated training grounds for track and field athletics, weightlifting arenas, sports psychology pods, and the apex Human Performance & VO2 Max Testing Lab.",
+          "features": [
+            "3D MoCap Lab",
+            "Strength Hall",
+            "Cryo Rehab"
+          ],
+          "action": "Lab Equipment Inventory"
+        },
+        {
+          "id": "olympic-city",
+          "title": "New Olympic City Campus",
+          "category": "UPCOMING 250-ACRE CITY",
+          "image": "/about/campus_img3.png",
+          "description": "Masterplanned sovereign campus featuring an Olympic synthetic velodrome, FINA aquatic center, 10,000-seat athletic stadium, student athlete villages, and research institutes.",
+          "features": [
+            "Olympic Velodrome",
+            "Aquatic Center",
+            "Hostel Towers"
+          ],
+          "action": "Phase II Construction Status"
+        }
+      ],
+      "map": {
+        "title": "Geographic Campus Distribution • Patiala Cluster",
+        "badge": "GIS GEOCODED",
+        "src": "https://maps.google.com/maps?q=Maharaja%20Bhupinder%20Singh%20Punjab%20Sports%20University%20Patiala&z=13&output=embed"
+      }
+    },
+    "statutoryAffiliations": {
+      "affiliations": [
+        {
+          "acronym": "UGC",
+          "status": "VERIFIED",
+          "title": "UGC Section 2(f)",
+          "description": "Fully notified by University Grants Commission to confer degrees under Section 22 of the UGC Act, 1956.",
+          "reference": "Gazette Ref: F.9-18/2019(CPP-I/PU)"
+        },
+        {
+          "acronym": "AIU",
+          "status": "MEMBER",
+          "title": "Assoc. of Indian Universities",
+          "description": "Full regular membership entitling participation and hosting rights for all Inter-University All-India sports championships.",
+          "reference": "Member ID: AIU-ST-PB-119"
+        },
+        {
+          "acronym": "SAI",
+          "status": "ACTIVE MOU",
+          "title": "Sports Authority of India",
+          "description": "Bilateral technical pact with Netaji Subhas National Institute of Sports (NSNIS) Patiala for shared biomechanical facilities.",
+          "reference": "Pact Term: 2021–2031 (10-Yr)"
+        },
+        {
+          "acronym": "NCOE",
+          "status": "ACCREDITED",
+          "title": "Khelo India State NCOE",
+          "description": "Recognized National Centre of Excellence in Athletics, Fencing, Cycling, and Weightlifting with central sports scholarships.",
+          "reference": "Status: Tier-1 Hub"
+        }
+      ],
+      "roadmap": {
+        "title": "NAAC Accreditation Preparedness Roadmap",
+        "subtitle": "Internal Quality Assurance Cell (IQAC) Continuous Monitoring Matrix",
+        "submission": "Cycle 1 Submission: Q3 2025",
+        "readinessLabel": "Overall Statutory Institutional Benchmark Readiness",
+        "readiness": 82
+      },
+      "criteria": [
+        {
+          "name": "CRITERION I: CURRICULAR",
+          "result": "95% (Aligned NEP)"
+        },
+        {
+          "name": "CRITERION II: TEACHING",
+          "result": "88% (Student Ratio 1:12)"
+        },
+        {
+          "name": "CRITERION III: RESEARCH",
+          "result": "78% (CapEx Deployed)"
+        },
+        {
+          "name": "CRITERION IV: INFRA",
+          "result": "90% (Olympic Class)"
+        }
+      ]
+    },
+    "callToAction": {
+      "eyebrow": "ADMISSIONS & ACADEMIC INQUIRIES",
+      "title": "Begin Your Journey at India’s Apex Sports Citadel",
+      "description": "Applications are open for B.P.Ed, B.Sc Sports Science, M.P.Ed, and Ph.D. Sports Pedagogy programs for Academic Year 2025–26.",
+      "actions": [
+        {
+          "label": "ADMISSIONS 2025-26",
+          "href": "#",
+          "type": "primary"
+        },
+        {
+          "label": "Toll Free: 1800-180-2019",
+          "href": "tel:18001802019",
+          "type": "phone"
+        }
+      ]
+    }
+  },
+  "academic": {
+    "hero": {
+      "tag1": "STATUTORY ACADEMIC CURRICULUM",
+      "tag2": "CBCS & NEP 2020 Multi-Entry/Exit Compliant",
+      "heading": "WORLD-CLASS SPORTS SCIENCES, PHYSICAL EDUCATION & KINESIOLOGY DEGREES",
+      "subheading": "Engineered for Olympians, high-performance coaches, clinical biomechanists, and sports administrators. MBSPSU blends rigorous doctoral inquiry, Vicon 3D kinematic labs, and accredited physical conditioning with flexible academic calendars synchronized with National Games and World University Championships.",
+      "featurePills": [
+        {
+          "id": "pill-1",
+          "icon": "/academic/clock.png",
+          "text": "Dual-Career Athlete Exemption: Active"
+        },
+        {
+          "id": "pill-2",
+          "icon": "/academic/dumble.png",
+          "text": "50% Statutory Sports Quota Reserved"
+        },
+        {
+          "id": "pill-3",
+          "icon": "/academic/lamp.png",
+          "text": "SAI & KISCE Integrated Practicums"
+        }
+      ],
+      "intakeMatrix": {
+        "badge": "AY 2025-26 ADMISSIONS LEDGER",
+        "statusLabel": "Live Intake Matrix",
+        "metrics": [
+          {
+            "id": "im-1",
+            "value": "280",
+            "label": "Statutory Seats",
+            "color": "#FFDCC3"
+          },
+          {
+            "id": "im-2",
+            "value": "60:40",
+            "label": "Trial to Merit Ratio",
+            "color": "#6FFBBE"
+          },
+          {
+            "id": "im-3",
+            "value": "14+",
+            "label": "Olympic High-End Labs",
+            "color": "#FFFFFF"
+          },
+          {
+            "id": "im-4",
+            "value": "100%",
+            "label": "NCTE / UGC Accorded",
+            "color": "#FFB77D"
+          }
+        ],
+        "regulation": "Regulation: NEP UGCF-2022",
+        "policyText": "FR-ACAD-07 Policy"
+      }
+    },
+    "programmes": [
+      {
+        "id": "bped",
+        "level": "UG",
+        "durationLabel": "2 YEARS / 4 SEMESTERS",
+        "title": "Bachelor of Physical Education (B.P.Ed)",
+        "faculty": "Faculty of Pedagogical & Applied Sports Sciences",
+        "statusBadge": {
+          "label": "NCTE APPROVED",
+          "icon": "/academic/tick.png"
+        },
+        "stats": [
+          {
+            "label": "SANCTIONED SEATS",
+            "value": "100 Seats"
+          },
+          {
+            "label": "SPORTS QUOTA",
+            "value": "50% Reserved"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "Bachelor's Degree in any discipline with 50% marks and mandatory inter-college/district sports participation."
+          },
+          {
+            "icon": "/programmeCard/flag.png",
+            "title": "Trial Weightage: ",
+            "description": "60% Physical Fitness & Skill Trials + 40% Qualifying Academic Merit."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Head of Department: ",
+            "description": "Prof. (Dr.) Gursharan Singh, Senior Coach Athletic Pedagogy."
+          }
+        ],
+        "footer": {
+          "label": "Trials Window: 18 - 22 August 2025",
+          "value": "Venue: Raja Bhalindra Track"
+        },
+        "pdfLabel": "Syllabus PDF (1.4MB)",
+        "syllabusUrl": "/downloads/bped-syllabus.pdf",
+        "isActive": true,
+        "name": "Bachelor of Physical Education (B.P.Ed)"
+      },
+      {
+        "id": "msc-biomechanics",
+        "level": "PG",
+        "durationLabel": "2 YEARS / 4 SEMESTERS",
+        "title": "M.Sc Sports Science & Biomechanics",
+        "faculty": "School of High-Performance Kinetics & Diagnostics",
+        "statusBadge": {
+          "label": "LAB INTENSIVE",
+          "icon": "/programmeCard/bar.png"
+        },
+        "stats": [
+          {
+            "label": "TOTAL SEATS",
+            "value": "40 Seats"
+          },
+          {
+            "label": "PRACTICUM RATIO",
+            "value": "65% Lab / 35% Th"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "B.Sc Sports Science, B.P.Ed, B.P.T, or B.Sc Life Sciences with min. 55% aggregate marks."
+          },
+          {
+            "icon": "/programmeCard/icon.png",
+            "title": "Hardware Practicum: ",
+            "description": "12-Camera Vicon 3D Motion Analysis, Dual AMTI Force Plates, Cosmed K5 VO2 Max Telemetry."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Lead Scientist: ",
+            "description": "Dr. Harpreet Kaur (Ex-SAI High Performance Biomechanist)."
+          }
+        ],
+        "footer": {
+          "label": "Industry Internship: 1 Full Semester",
+          "value": "SAI NCOE Certified"
+        },
+        "pdfLabel": "Lab Manual & Syllabus (2.2MB)",
+        "syllabusUrl": "/downloads/msc-sports-science.pdf",
+        "isActive": true
+      },
+      {
+        "id": "bsc-sports-science",
+        "level": "UG",
+        "durationLabel": "4 YEARS / 8 SEMESTERS",
+        "title": "B.Sc (Hons) Sports Science",
+        "faculty": "Faculty of Sports Medicine, Kinesiology & Nutrition",
+        "statusBadge": {
+          "label": "NEP-2020 HONOURS W/ RESEARCH"
+        },
+        "stats": [
+          {
+            "label": "CAPACITY",
+            "value": "60 Seats"
+          },
+          {
+            "label": "EXIT OPTIONS",
+            "value": "Cert/Dip/Degree/Hons"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "10+2 (Senior Secondary) with Physics, Chemistry & Biology / Math / Physical Ed with 50% aggregate."
+          },
+          {
+            "icon": "/programmeCard/lamp.png",
+            "title": "Core Modules: ",
+            "description": "Exercise Biochemistry, Performance Analysis, Strength & Conditioning, Sports Ergonomics."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Programme Lead: ",
+            "description": "Dr. Manavendra Rawat, NSCA-CSCS Certified Specialist."
+          }
+        ],
+        "footer": {
+          "label": "UGC Credit Framework: 160 Total",
+          "value": "Research Dissertation Sem VIII"
+        },
+        "pdfLabel": "NEP Model Curriculum (1.8MB)",
+        "syllabusUrl": "/downloads/bsc-hons-sports-science.pdf",
+        "isActive": true
+      },
+      {
+        "id": "mped",
+        "level": "PG",
+        "durationLabel": "2 YEARS / 4 SEMESTERS",
+        "title": "Master of Physical Education (M.P.Ed)",
+        "faculty": "Faculty of Pedagogical Leadership & Athletic Administration",
+        "statusBadge": {
+          "label": "NCTE APPROVED",
+          "icon": "/academic/tick.png"
+        },
+        "stats": [
+          {
+            "label": "SANCTIONED SEATS",
+            "value": "40 Seats"
+          },
+          {
+            "label": "FIELD TRAINING",
+            "value": "Compulsory Residency"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "B.P.Ed or B.Sc in Health & Physical Education with minimum 50% marks."
+          },
+          {
+            "icon": "/programmeCard/cap.png",
+            "title": "Core Modules: ",
+            "description": "Advanced Coaching Pedagogy, Test & Measurement in Sports, Athletic Curriculum Engineering."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Dean of Studies: ",
+            "description": "Prof. (Dr.) Rajeshwar Dass, Member AIU Sports Board."
+          }
+        ],
+        "footer": {
+          "label": "Specialization: 1 Major Team/Individual Game",
+          "value": "NIS Certified Faculty"
+        },
+        "pdfLabel": "Syllabus & Ordinances (1.2MB)",
+        "syllabusUrl": "/downloads/mped-syllabus.pdf",
+        "isActive": true
+      },
+      {
+        "id": "phd-sports-science",
+        "level": "PHD",
+        "durationLabel": "3 - 5 YEARS DURATION",
+        "title": "Ph.D in Physical Education & Sports Sciences",
+        "faculty": "Centre for Advanced Doctoral Inquiry & Sports Innovation",
+        "statusBadge": {
+          "label": "UGC MINIMUM STANDARDS 2022"
+        },
+        "stats": [
+          {
+            "label": "FELLOWSHIP TYPE",
+            "value": "UGC-JRF / State Stipend"
+          },
+          {
+            "label": "ANNUAL INTAKE",
+            "value": "Subject to Vacancies"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "Master's (M.P.Ed / M.Sc Sports Science) with 55% marks + MBPSU Doctoral Entrance Test (DET) or UGC-NET/JRF."
+          },
+          {
+            "icon": "/programmeCard/brain.png",
+            "title": "Priority Thrusts: ",
+            "description": "Parasports kinematics, athletic polymorphism genetics, cognitive reaction times under stress, youth athlete monitoring."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Research Directorate: ",
+            "description": "Dean Academic Affairs & University Research Board (URB)."
+          }
+        ],
+        "footer": {
+          "label": "Coursework: 12 Credits",
+          "value": "Research Ethics & SPSS Lab"
+        },
+        "pdfLabel": "Ph.D Ordinance & Guidelines (980KB)",
+        "syllabusUrl": "/downloads/phd-sports-guidelines.pdf",
+        "isActive": true
+      },
+      {
+        "id": "pg-diploma-sports-mgmt",
+        "level": "PG_DIPLOMA",
+        "durationLabel": "1 YEAR / 2 SEMESTERS",
+        "title": "PG Diploma in Sports Management & Analytics",
+        "faculty": "Centre for Sports Governance, Leagues & Commercial Law",
+        "statusBadge": {
+          "label": "PROFESSIONAL EXECUTIVE TRACK"
+        },
+        "stats": [
+          {
+            "label": "SANCTIONED SEATS",
+            "value": "40 Seats"
+          },
+          {
+            "label": "PLACEMENT CELL",
+            "value": "Leagues & Federations"
+          }
+        ],
+        "facts": [
+          {
+            "icon": "/programmeCard/cardTick.png",
+            "title": "Eligibility: ",
+            "description": "Graduation in any discipline with min. 50% marks. Direct weightage for National/All India Inter-Varsity athletes."
+          },
+          {
+            "icon": "/programmeCard/search.png",
+            "title": "Applied Syllabi: ",
+            "description": "League Operations, Athlete Contract Law, Sports Broadcasting Rights, Python & Tableau Sports Analytics."
+          },
+          {
+            "icon": "/programmeCard/idCard.png",
+            "title": "Chair: ",
+            "description": "Adv. K. S. Mann, Sports Arbitrator & CAS Accredited Counsel."
+          }
+        ],
+        "footer": {
+          "label": "Practicum: 8 Weeks Live Tournament Ops",
+          "value": "IPL / PKL / ISL Case Studies"
+        },
+        "pdfLabel": "PGDSMA Framework (850KB)",
+        "syllabusUrl": "/downloads/pgdsma-framework.pdf",
+        "isActive": true
+      }
+    ],
+    "dualCareer": {
+      "tag": "STATUTORY SAFEGUARD CLAUSE",
+      "heading": "DUAL-CAREER ATHLETE SAFEGUARD POLICY",
+      "tagline": "BALANCING ACADEMIC EXCELLENCE & OLYMPIC ASPIRATIONS",
+      "description": "In compliance with UGC Guidelines on Dual-Career Pathways for Elite Athletes and Punjab Sports University Act Section 4(1)(b), student-athletes representing India, Punjab, or MBSPSU in sanctioned championships are guaranteed statutory academic accommodations.",
+      "privileges": [
+        "Up to 50% attendance relaxation during recognized national camps & championships",
+        "Special exam windows conducted before or after international tournaments",
+        "Credit transfer under National Credit Framework (NCrF) for Khelo India podium medalists",
+        "Personal academic faculty mentors assigned to each national-level athlete"
+      ],
+      "supportCards": [
+        {
+          "_id": "1",
+          "icon": "/programmeCard/calander.png",
+          "alt": "Calendar",
+          "title": "LMS Offline Modules",
+          "subtitle": "Asynchronous Learning",
+          "description": "Encrypted course packs accessible on mobile tablets without persistent internet. Video lectures, micro-assignments, and lab manuals synchronized during travel.",
+          "highlightText": "Pre-loaded offline e-Library access."
+        },
+        {
+          "_id": "2",
+          "icon": "/programmeCard/pc.png",
+          "alt": "Computer",
+          "title": "LMS Offline Modules",
+          "subtitle": "Asynchronous Learning",
+          "description": "Encrypted course packs accessible on mobile tablets without persistent internet. Video lectures, micro-assignments, and lab manuals synchronized during travel.",
+          "highlightText": "Pre-loaded offline e-Library access."
+        },
+        {
+          "_id": "3",
+          "icon": "/programmeCard/checklist.png",
+          "alt": "Attendance checklist",
+          "title": "Attendance Remission",
+          "subtitle": "Official Duty (OD) Quota",
+          "description": "Direct institutional conversion of verified SAI/Sports Department duty slips into 100% statutory classroom attendance records on the university ERP ledger.",
+          "highlightText": "ERP automated sync via Dean Sports."
+        },
+        {
+          "_id": "4",
+          "icon": "/programmeCard/brain2.png",
+          "alt": "Mentorship",
+          "title": "Dedicated Mentorship",
+          "subtitle": "1-on-1 Faculty Fellows",
+          "description": "Every elite student-athlete is paired with a designated Academic Counselor who manages their submission windows, tutoring sessions, and credit portability.",
+          "highlightText": "Weekly video check-in while in camp."
+        }
+      ],
+      "councilNotes": [
+        {
+          "_id": "1",
+          "councilTitle": "ACADEMIC COUNCIL MINUTE NOTE",
+          "referenceNumber": "FR-ACAD-07",
+          "note": "Registered university athletes representing India or Punjab at approved senior/junior circuits are entitled to special examination sessions, asynchronous digital note-sheets, and 100% attendance credit for sanctioned preparatory camps.",
+          "signedBy": "Signed: Registrar, MBSPSU Patiala",
+          "hashValue": "SHA-256: 4f8a...9c2e"
+        },
+        {
+          "_id": "2",
+          "councilTitle": "ACADEMIC COUNCIL MINUTE NOTE",
+          "referenceNumber": "FR-ACAD-08",
+          "note": "Students selected for sanctioned national or international assignments may request flexible submission windows and designated academic counseling throughout their travel period.",
+          "signedBy": "Signed: Dean, Academic Affairs",
+          "hashValue": "SHA-256: 7b21...a6d4"
+        }
+      ]
+    },
+    "choice": {
+      "tag": "CHOICE-BASED CREDIT SYSTEM (CBCS)",
+      "title": "NEP-2020 CURRICULAR CREDIT DISTRIBUTION MATRIX",
+      "description": "Designed to provide maximum academic mobility, multidisciplinary cross-skilling, and elite performance integration under the National Higher Education Qualifications Framework (NHEQF Level 4.5 to 8).",
+      "pillars": [
+        {
+          "_id": "1",
+          "cardNumber": "01",
+          "creditRange": "48-64 Cr",
+          "title": "Discipline Specific Core (DSC)",
+          "description": "Fundamental pillars of Sports Sciences: Functional Anatomy, Sports Physiology, Advanced Kinesiology, Motor Learning, and Conditioning Practicums.",
+          "highlightText": "Mandatory Non-negotiable credits across all semesters."
+        },
+        {
+          "_id": "2",
+          "cardNumber": "02",
+          "creditRange": "24-32 Cr",
+          "title": "Discipline Specific Elective (DSE)",
+          "description": "Targeted specializations: Talent Identification Protocols, Advanced Sports Nutrition, Para-Athletic Conditioning, or Advanced Match Analysis.",
+          "highlightText": "Selected from departmental elective pool in Semesters V to VIII."
+        },
+        {
+          "_id": "3",
+          "cardNumber": "03",
+          "creditRange": "16-20 Cr",
+          "title": "Generic Open Electives (GE)",
+          "description": "Cross-disciplinary exposure open to university-wide learners: Sports Journalism, Sports Marketing, Ergonomics, and Community Wellness.",
+          "highlightText": "Inter-faculty mobility across MBSPU departments."
+        },
+        {
+          "_id": "4",
+          "cardNumber": "04",
+          "creditRange": "20-24 Cr",
+          "title": "Practicum & Officiating Badges",
+          "description": "Direct technical certification: National Officiating Licenses, First Responder CPR/AED, Strength Training Apprenticeship, and Field Practicums.",
+          "highlightText": "Integrated partnership with National Sports Federations (NSFs)."
+        }
+      ]
+    },
+    "calendar": {
+      "tag": "ACADEMIC CALENDAR & REGULATORY DOSSIER",
+      "title": "SESSION 2025-26 ACADEMIC TIMELINE & STATUTORY DIRECTIVES",
+      "description": "Key administrative dates, examination schedules, national camp windows, and official university ordinances governing academic progression and sports quota attendance remissions.",
+      "events": [
+        {
+          "id": "cal-1",
+          "milestone": "Semester Registration & Fee Remittance",
+          "programmes": "All UG (Sem III, V, VII) & PG (Sem III)",
+          "window": "July 15, 2025 - July 28, 2025",
+          "regulation": "Ord. 4.1(A)",
+          "actionText": "Download Circular",
+          "actionHref": "#",
+          "type": "Academic"
+        },
+        {
+          "id": "cal-2",
+          "milestone": "National Sports Trials & Fitness Battery Test",
+          "programmes": "Fresh Entrants (B.P.Ed, B.Sc, M.Sc)",
+          "window": "August 18, 2025 - August 22, 2025",
+          "regulation": "Statute 19(2)",
+          "actionText": "Trial Protocols",
+          "actionHref": "#",
+          "type": "Sports Trials"
+        },
+        {
+          "id": "cal-3",
+          "milestone": "Commencement of Odd Semester Classes",
+          "programmes": "All Faculties & Teaching Labs",
+          "window": "September 01, 2025",
+          "regulation": "NEP Guideline 8",
+          "actionText": "Timetable PDF",
+          "actionHref": "#",
+          "type": "Academic"
+        },
+        {
+          "id": "cal-4",
+          "milestone": "Mid-Term Continuous Assessment (MST-I)",
+          "programmes": "B.Sc, B.P.Ed, M.P.Ed, M.Sc Sports Sci",
+          "window": "October 20, 2025 - October 27, 2025",
+          "regulation": "CBCS Assessment 2.4",
+          "actionText": "Assessment Rubric",
+          "actionHref": "#",
+          "type": "Examinations"
+        },
+        {
+          "id": "cal-5",
+          "milestone": "End-Term Theory & Lab Practical Examinations",
+          "programmes": "All Semester Programmes",
+          "window": "December 08, 2025 - December 24, 2025",
+          "regulation": "COE Act 2020",
+          "actionText": "Date-Sheet Gazette",
+          "actionHref": "#",
+          "type": "Examinations"
+        },
+        {
+          "id": "cal-6",
+          "milestone": "Dual-Career Elite Athlete Special Window",
+          "programmes": "Sanctioned National/Intl Competitors",
+          "window": "January 05, 2026 - January 15, 2026",
+          "regulation": "FR-ACAD-07",
+          "actionText": "Form FR-07A",
+          "actionHref": "#",
+          "type": "Academic"
+        }
+      ],
+      "dossierCards": [
+        {
+          "_id": "doss-1",
+          "title": "Ordinance Vol. II",
+          "description": "Rules for Award of Degrees (2025)",
+          "fileUrl": "#",
+          "icon": "/programmeCard/book.png"
+        },
+        {
+          "_id": "doss-2",
+          "title": "NEP Credit Transfer",
+          "description": "Academic Bank of Credits (ABC) Guide",
+          "fileUrl": "#",
+          "icon": "/programmeCard/shield.png"
+        },
+        {
+          "_id": "doss-3",
+          "title": "Sports Quota Bylaws",
+          "description": "Gradation & Verification Rules",
+          "fileUrl": "#",
+          "icon": "/programmeCard/hand.png"
+        }
+      ]
+    }
+  },
+  "sportsInfrastructure": {
+    "hero": {
+      "badge": "OLYMPIC STANDARDS COMPLIANT",
+      "heading": "World-Class Sports Infrastructure & Laboratories",
+      "subheading": "Maharaja Bhupindra Singh Punjab Sports University boasts sovereign Olympic-tier training tracks, velodromes, aquatics facilities, and high-precision biomechanics labs."
+    },
+    "facilities": [
+      {
+        "id": "fac-1",
+        "name": "IAAF Class 1 8-Lane Synthetic Track & Field Arena",
+        "category": "Athletics",
+        "surface": "Mondo Super X 720 (13.5mm)",
+        "capacity": "12,000 Covered Seats",
+        "certification": "World Athletics (IAAF) Class 1 Certified",
+        "lighting": "1,500 Lux LED Broadcast Floodlights",
+        "features": [
+          "Dual runway long jump and triple jump pits",
+          "Dedicated shot put, discus, hammer throw and javelin cages",
+          "Photo-finish digital timing gates (1/1000th sec precision)",
+          "Sub-track sensor network for ground reaction measurements"
+        ],
+        "bookingStatus": "Active - Open for University Athletes & State Camps",
+        "imageUrl": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?q=80&w=800"
+      },
+      {
+        "id": "fac-2",
+        "name": "50m All-Weather Olympic Aquatics Complex",
+        "category": "Aquatics",
+        "surface": "Ceramic Tiled 10-Lane 50m Pool + 25m Diving Well",
+        "capacity": "3,500 Spectator Pavilion",
+        "certification": "World Aquatics (FINA) Certified",
+        "lighting": "1,200 Lux Indoor Floodlights",
+        "features": [
+          "Automated touch-pad electronic timing consoles",
+          "Underwater high-speed stroke analysis camera ports",
+          "Climate-controlled water temperature (26°C - 28°C constant)",
+          "1m, 3m springboards and 5m, 7.5m, 10m diving platforms"
+        ],
+        "bookingStatus": "Active - Open for University Athletes & State Camps",
+        "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?q=80&w=800"
+      },
+      {
+        "id": "fac-3",
+        "name": "250m Siberian Pine Indoor Velodrome & Cycling Pavilion",
+        "category": "Cycling",
+        "surface": "Imported Slow-Growth Siberian Pine Wood",
+        "capacity": "2,000 Spectators",
+        "certification": "UCI Homologated Category 1",
+        "lighting": "1,400 Lux Anti-Glare Fixtures",
+        "features": [
+          "43.5° banked turns / 13° home straight transition curves",
+          "Infield Wattbike matrix (24 high-performance units)",
+          "Trackside telemetry gateways for wireless power metering",
+          "Direct subterranean connection to wind tunnel testing pod"
+        ],
+        "bookingStatus": "Active - Open for National Track Squads",
+        "imageUrl": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?q=80&w=800"
+      },
+      {
+        "id": "fac-4",
+        "name": "Multipurpose Indoor Sports Arena Complex",
+        "category": "Indoor Sports",
+        "surface": "Taraflex Gerflor Olympic Grade Flooring",
+        "capacity": "5,000 Spectator Arena",
+        "certification": "BWF Grade 1 / FIBA Level 1 / FIVB Compliant",
+        "lighting": "1,600 Lux Broadcast Specification",
+        "features": [
+          "8 Badminton Courts, 2 Basketball Courts, 2 Volleyball Courts",
+          "Judo, Wrestling, and Boxing combat rings",
+          "Acoustic damping and air exchange filtration system",
+          "Player recovery cryotherapy and hydrotherapy bays"
+        ],
+        "bookingStatus": "Active - Open for Training & Tournaments",
+        "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=800"
+      }
+    ],
+    "tariffRules": {
+      "universityStudents": "Free access with biometric registration",
+      "affiliatedColleges": "Subsidized slot booking: ₹500 / session",
+      "nationalFederations": "State Government sanctioned camp tariff: ₹15,000 / day",
+      "bookingPortal": "https://mbspsu.ac.in/portal/arena-booking"
+    },
+    "heroHeader": {
+      "eyebrow": "NATIONAL APEX TRAINING INFRASTRUCTURE • PATIALA",
+      "title": [
+        "State-of-the-Art Arenas Built to",
+        "Olympic & World Championship",
+        "Benchmarks"
+      ],
+      "description": "Engineered to satisfy stringent Class-1 World Athletics, FINA, and UCI homologations. MBSPSU's high-performance pavilions integrate synchronized multi-axis kinematic motion analysis, high-speed sub-aquatic telemetry, and elite residential conditioning ecosystems to power India's podium trajectory.",
+      "stats": [
+        {
+          "label": "GROSS AREA",
+          "value": "142.6",
+          "unit": "Acres",
+          "detail": "Dedicated sports biomechanics enclave"
+        },
+        {
+          "label": "ARENAS CERTIFIED",
+          "value": "9",
+          "unit": "World Bodies",
+          "detail": "IAAF, FINA, UCI, IBA, IJF, BWF"
+        },
+        {
+          "label": "NATIONAL CAMPS",
+          "value": "14",
+          "unit": "Active",
+          "detail": "SAI Khelo India Elite contingent"
+        },
+        {
+          "label": "TELEMETRY SENSORS",
+          "value": "240+",
+          "unit": "Active",
+          "detail": "Live Vicon 3D & Kistler force sync"
+        }
+      ],
+      "actions": [
+        {
+          "id": "booking",
+          "label": "Reserve Arenas • FR-FAC-03",
+          "href": "#"
+        },
+        {
+          "id": "inspection",
+          "label": "360° Campus Virtual Inspection",
+          "href": "#"
+        },
+        {
+          "id": "audit",
+          "label": "Statutory Safety & ISO Audit Logs",
+          "href": "#"
+        }
+      ]
+    },
+    "facilitySelector": [
+      {
+        "id": "all",
+        "name": "All Arenas (6)"
+      },
+      {
+        "id": "track",
+        "name": "Track & Field"
+      },
+      {
+        "id": "aquatics",
+        "name": "Aquatics Complex"
+      },
+      {
+        "id": "cycling",
+        "name": "Velodrome & Cycling"
+      },
+      {
+        "id": "science",
+        "name": "Sports Science & Labs"
+      },
+      {
+        "id": "combat",
+        "name": "Combat & Martial Arts"
+      },
+      {
+        "id": "village",
+        "name": "Athlete Village & S&C"
+      }
+    ],
+    "trackAndField": {
+      "specs": [
+        "Rekortan M99 Polyurethane: Dual-layer full-pour system for maximum energy restitution.",
+        "Timing Infrastructure: FinishLynx 10,000 FPS primary camera with dual photocell break lines.",
+        "Jumping Pits & Cage: Twin long/triple jump runways with ultrasonic wind velocity sensors; heavy-gauge hammer/discus safety enclosure.",
+        "Broadcast Luminance: 2,200 Lux Musco LED sports illumination for 4K broadcast telemetry."
+      ],
+      "pavilionCode": "ARENA-TF-01",
+      "capacity": "Capacity: 12,500 Seated",
+      "title": "Class 1 IAAF / World Athletics 400m Synthetic Track",
+      "description": "Precision-engineered for national sprint camps, hurdle trials, and distance decathlons. Features complete non-porous EPDM force-reduction surfacing with high-speed micro-gate timing prisms embedded along 100m straightaways.",
+      "utilization": {
+        "label": "Real-Time Utilization",
+        "camp": "Punjab State Senior Camp (06:00 - 11:30 IST)",
+        "progressPercent": 75,
+        "availability": "Availability: Evening Slot Open"
+      }
+    },
+    "aquaticsComplex": {
+      "specs": [
+        "Basin Geometry: 50.025m x 25.00m x 3.00m continuous depth, zero-wave gutter absorption.",
+        "Underwater Motion Capture: 8 synchronized 240 FPS underwater high-speed optical portals for stroke efficiency index scoring.",
+        "Water Purification: Advanced low-chlorine regenerative Ozone + UV-C purification cycle maintaining 26.5°C ± 0.5°C.",
+        "Omega Timing: Quantum Aquatic Timer, OSV9 touchpads, and virtual false-start acoustic lane pods."
+      ],
+      "stats": [
+        {
+          "label": "Temp",
+          "value": "26.4 °C"
+        },
+        {
+          "label": "pH Level",
+          "value": "7.22 pH"
+        },
+        {
+          "label": "Turbidity",
+          "value": "<0.08 NTU"
+        }
+      ],
+      "pavilionCode": "ARENA-AQ-02",
+      "approvalStatus": "World Aquatics (FINA) Approved",
+      "title": "50m 10-Lane Olympic Swimming & Diving Complex",
+      "description": "Featuring an indoor, climate-controlled 50m x 25m competition basin with motorized floating bulkhead dividers. Equipped with deep underwater observation galleries fitted with optical refractive glass for high-velocity underwater hydrodynamic kinematic capture."
+    },
+    "sportsFacilities": [
+
+
+      {
+        "image": "/sportsInfrastructure/cycling-pavilion.svg",
+        "alt": "Indoor velodrome cycling arena",
+        "badge": "UCI Category 1",
+        "overlay": "250m Siberian Pine Track",
+        "code": "Arena Code: CYC-VEL-03",
+        "tag": "Velodrome & Cycling",
+        "title": "250m Siberian Pine Homologated Velodrome",
+        "description": "Indoor timber track designed for international sprint and endurance cycling meets, featuring 43-degree banking and continuous climate control.",
+        "details": [
+          {
+            "label": "Banking",
+            "value": "43° Maximum Bank"
+          },
+          {
+            "label": "Timber",
+            "value": "Siberian Pine"
+          }
+        ],
+        "footerText": "Olympic Training Hub",
+        "linkText": "Velodrome Details",
+        "href": "#"
+      },
+      {
+        "image": "/sportsInfrastructure/martial-arts.svg",
+        "alt": "Combat sports multipurpose arena",
+        "badge": "Olympic Grade",
+        "overlay": "Multi-Ring Combat Complex",
+        "code": "Arena Code: CMB-ARN-04",
+        "tag": "Combat & Martial Arts",
+        "title": "Combat & Boxing High-Performance Pavilion",
+        "description": "Equipped with AIBA-approved boxing rings, IJF judo mats, and wrestling surfaces alongside impact telemetry sensors and video review suites.",
+        "details": [
+          {
+            "label": "Rings",
+            "value": "4 Olympic Boxing Rings"
+          },
+          {
+            "label": "Mats",
+            "value": "IJF & UWW Approved"
+          }
+        ],
+        "footerText": "SAI Feeder Center",
+        "linkText": "Arena Protocols",
+        "href": "#"
+      },
+      {
+        "image": "/sportsInfrastructure/high-performance-gym.svg",
+        "alt": "High performance strength gymnasium",
+        "badge": "Strength & Conditioning",
+        "overlay": "Eleiko Certified Weights",
+        "code": "Arena Code: STR-GYM-05",
+        "tag": "Athlete Village & S&C",
+        "title": "High-Performance Strength & Conditioning Center",
+        "description": "Elite training pavilion featuring Olympic lifting platforms, pneumatics-loaded force testing, and velocity-based training (VBT) transponders.",
+        "details": [
+          {
+            "label": "Platforms",
+            "value": "12 Eleiko Stations"
+          },
+          {
+            "label": "Sensory",
+            "value": "GymAware VBT Live"
+          }
+        ],
+        "footerText": "Podium Ready Facility",
+        "linkText": "Gymnasium Tour",
+        "href": "#"
+      },
+      {
+        "image": "/sportsInfrastructure/3d-motion.svg",
+        "alt": "Sports science biomechanics laboratory",
+        "badge": "Biomechanics Lab",
+        "overlay": "3D Motion Capture Lab",
+        "code": "Arena Code: SCI-LAB-06",
+        "tag": "Sports Science & Labs",
+        "title": "Kinematic Motion Analysis & Hypoxic Chamber Lab",
+        "description": "Full Vicon motion capture suite with dual Kistler force plates, high-altitude normobaric simulation chambers, and metabolic gas analysis carts.",
+        "details": [
+          {
+            "label": "Cameras",
+            "value": "16 Vicon Vantage"
+          },
+          {
+            "label": "Altitude",
+            "value": "Simulate up to 5000m"
+          }
+        ],
+        "footerText": "Research Flagship",
+        "linkText": "Lab Capabilities",
+        "href": "#"
+      }
+    ],
+    "arenaAllocation": [
+      {
+        "id": 1,
+        "facility": "400m Synthetic Track (Rekortan)",
+        "govt": "Exempt (Govt. MOA)",
+        "federation": "₹ 15,000 / Day",
+        "private": "₹ 45,000 / Day",
+        "floodlight": "₹ 4,500 (2,200 Lux)",
+        "applyUrl": "/booking/synthetic-track"
+      },
+      {
+        "id": 2,
+        "facility": "50m 10-Lane Olympic Aquatics Center",
+        "govt": "Priority Allocated",
+        "federation": "₹ 20,000 / Day",
+        "private": "₹ 60,000 / Day",
+        "floodlight": "₹ 5,000 / Hr (Indoor HVAC)",
+        "applyUrl": "/booking/aquatics-complex"
+      },
+      {
+        "id": 3,
+        "facility": "250m Siberian Pine Indoor Velodrome",
+        "govt": "Priority Allocated",
+        "federation": "₹ 25,000 / Day",
+        "private": "₹ 75,000 / Day",
+        "floodlight": "Included in Day Tariff",
+        "applyUrl": "/booking/velodrome"
+      },
+      {
+        "id": 4,
+        "facility": "3D Biomechanics & Kinematic Lab Unit",
+        "govt": "AY Quota Free",
+        "federation": "₹ 3,500 / Athlete Profile",
+        "private": "₹ 8,000 / Athlete Profile",
+        "floodlight": "N/A (Indoor Lab)",
+        "applyUrl": "/booking/biomechanics-lab"
+      },
+      {
+        "id": 5,
+        "facility": "Combat Arena (Boxing Rings / Judo / Mats)",
+        "govt": "SAI Camps Free",
+        "federation": "₹ 12,000 / Day",
+        "private": "₹ 35,000 / Day",
+        "floodlight": "₹ 2,500 / Hr",
+        "applyUrl": "/booking/combat-arena"
+      }
+    ],
+    "campusInspection": {
+      "nodes": [
+        {
+          "id": 1,
+          "label": "Node A: Rekortan Finish Line"
+        },
+        {
+          "id": 2,
+          "label": "Node B: 50m Pool Deep Basin"
+        },
+        {
+          "id": 3,
+          "label": "Node C: Velodrome Bank 43°"
+        },
+        {
+          "id": 4,
+          "label": "Node D: Biomechanics Vicon Lab"
+        },
+        {
+          "id": 5,
+          "label": "Node E: Combat Arena"
+        }
+      ],
+      "corridors": [
+        {
+          "id": 1,
+          "text": "Chandigarh International Airport (IXC): 58 km (via NH 7)"
+        },
+        {
+          "id": 2,
+          "text": "Patiala Junction Railway Station: 3.4 km"
+        },
+        {
+          "id": 3,
+          "text": "Govt. Medical College & Rajindra Hospital (Level 1 Trauma): 2.1 km"
+        }
+      ],
+      "sustainabilityStats": [
+        {
+          "id": 1,
+          "label": "Clean Energy Share",
+          "value": "88.4% Net Power"
+        },
+        {
+          "id": 2,
+          "label": "Water Recycled",
+          "value": "4.2 Lakh L / Day"
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27549.35692887135!2d76.35293037431639!3d30.33191400000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391028e8dffff675%3A0xaf089160dcfa275!2sMohindra%20Kothi%20Museum!5e0!3m2!1sen!2sin!4v1791134289152!5m2!1sen!2sin"
+    }
+  },
+  "admissions": {
+    "hero": {
+      "statusBadge": "ADMISSIONS OPEN FOR ACADEMIC YEAR 2025-26",
+      "heading": "Admissions to Specialized Sports Degrees & Coaching Diplomas",
+      "subheading": "Join Punjab's apex sports university. Direct admission quotas for Olympic, Asian Games, Commonwealth, and National Games medalists.",
+      "brochureUrl": "/downloads/mbspsu-prospectus-2025-26.pdf",
+      "helpline": "+91-175-2920250",
+      "email": "admissions@mbspsu.ac.in"
+    },
+    "tracks": [
+      {
+        "id": "trk-1",
+        "trackName": "Track A: International & National Medalists (Direct Admission)",
+        "description": "Direct admission without physical efficiency trial for medalists of Olympic Games, Asian Games, Commonwealth Games, and Senior National Championships.",
+        "quota": "15% Sovereign Reserved Cadre",
+        "benefits": "100% Tuition Waiver, Free Campus Hostel & Nutrition Stipend"
+      },
+      {
+        "id": "trk-2",
+        "trackName": "Track B: Khelo India & State Level Sports Quota",
+        "description": "50% sports merit calculated via University Physical Efficiency Test (PET) and Sports Trials scoring rubric + 50% qualifying academic marks.",
+        "quota": "35% State Sports Cadre",
+        "benefits": "Subsidized fees & Access to High-Performance Sports Labs"
+      },
+      {
+        "id": "trk-3",
+        "trackName": "Track C: Academic Merit Track",
+        "description": "General admissions based on qualifying examination percentage followed by standard medical fitness clearance.",
+        "quota": "50% Open Merit Cadre",
+        "benefits": "Comprehensive degree curriculum with access to varsity athletics"
+      }
+    ],
+    "importantDates": [
+      {
+        "id": "dt-1",
+        "event": "Online Application Portal Opens",
+        "date": "15 May 2026",
+        "status": "COMPLETED"
+      },
+      {
+        "id": "dt-2",
+        "event": "Last Date for Submission of Online Applications",
+        "date": "30 June 2026",
+        "status": "ACTIVE"
+      },
+      {
+        "id": "dt-3",
+        "event": "Physical Efficiency Test (PET) & Sports Trials",
+        "date": "08 July - 12 July 2026",
+        "status": "UPCOMING"
+      },
+      {
+        "id": "dt-4",
+        "event": "Publication of Overall Merit List",
+        "date": "18 July 2026",
+        "status": "UPCOMING"
+      },
+      {
+        "id": "dt-5",
+        "event": "First Round of Counselling & Document Verification",
+        "date": "24 July - 26 July 2026",
+        "status": "UPCOMING"
+      }
+    ],
+    "seatMatrix": [
+      {
+        "id": "seat-1",
+        "course": "B.P.Ed (Bachelor of Physical Education)",
+        "total": 100,
+        "sportsQuota": 50,
+        "general": 25,
+        "reserved": 25
+      },
+      {
+        "id": "seat-2",
+        "course": "M.Sc Sports Science & Biomechanics",
+        "total": 40,
+        "sportsQuota": 15,
+        "general": 15,
+        "reserved": 10
+      },
+      {
+        "id": "seat-3",
+        "course": "B.Sc (Hons) Sports Science",
+        "total": 60,
+        "sportsQuota": 20,
+        "general": 25,
+        "reserved": 15
+      },
+      {
+        "id": "seat-4",
+        "course": "PG Diploma in Sports Coaching",
+        "total": 30,
+        "sportsQuota": 15,
+        "general": 10,
+        "reserved": 5
+      }
+    ],
+    "bento": {
+      "cards": [
+        {
+          "id": "bento-1",
+          "badge": "INTAKE CAPACITY",
+          "value": "480 Seats",
+          "subtitle": "6 UG & PG Disciplines across Sports Sciences",
+          "highlightText": "6 UG & PG Disciplines",
+          "icon": "/admissions/i1.png",
+          "progressPercent": 78,
+          "barColor": "#FE932C"
+        },
+        {
+          "id": "bento-2",
+          "badge": "DIRECT MEDALLIST QUOTA",
+          "value": "100% Waiver",
+          "subtitle": "International / Sr. National Podium",
+          "icon": "/admissions/i2.png",
+          "progressPercent": 100,
+          "barColor": "#4EDEA3"
+        },
+        {
+          "id": "bento-3",
+          "badge": "SCORING WEIGHTAGE",
+          "value": "60 : 40 Ratio",
+          "subtitle": "60% Physical Trials + 40% Academic Merit",
+          "highlightText": "60% Physical Trials",
+          "icon": "/admissions/i3.png",
+          "progressPercent": 60,
+          "secondaryPercent": 40,
+          "barColor": "#904D00",
+          "secondaryColor": "#0F2744"
+        },
+        {
+          "id": "bento-4",
+          "badge": "PHYSICAL TRIALS SLA",
+          "value": "AAHPER Standard",
+          "subtitle": "Biometric CCTV Track · Patiala Campus",
+          "icon": "/admissions/i4.png",
+          "progressPercent": 65,
+          "barColor": "#BA1A1A"
+        }
+      ]
+    },
+    "pathway": {
+      "tag": "Mandatory Protocol",
+      "title": "4-Step Candidate Admission & Sports Trials Pathway",
+      "statusBadge": "GIGW-SECURED-FLOW",
+      "steps": [
+        {
+          "id": "step-1",
+          "stepNumber": "01",
+          "badge": "ONLINE DESK",
+          "badgeBg": "#0F2744",
+          "badgeTextColor": "#FFFFFF",
+          "title": "Registration & DigiLocker Sync",
+          "description": "Create applicant profile via Aadhaar SSO. Direct integration with DigiLocker for instant 10th/10+2 marksheet validation and domicile records.",
+          "tags": [
+            "• Aadhaar e-KYC",
+            "• Sports Certificate Upload"
+          ],
+          "tagColor": "#001229",
+          "buttonText": "OPEN REGISTRATION FORM",
+          "buttonLink": "#",
+          "buttonIcon": "/admissions/p1.png",
+          "buttonTheme": "dark"
+        },
+        {
+          "id": "step-2",
+          "stepNumber": "02",
+          "badge": "GROUND SPRINT",
+          "badgeBg": "#904D00",
+          "badgeTextColor": "#FFFFFF",
+          "title": "Physical Fitness & Proficiency Trials",
+          "description": "Mandatory on-ground trials under the strict AAHPER battery battery standard. Biometrically logged events at Raja Bhalindra Singh Sports Complex.",
+          "tags": [
+            "• 50m Dash",
+            "• 4×10m Shuttle",
+            "• Standing Broad Jump"
+          ],
+          "tagColor": "#904D00",
+          "buttonText": "DOWNLOAD TRIAL GUIDE",
+          "buttonLink": "#",
+          "buttonIcon": "/admissions/p2.png",
+          "buttonTheme": "light"
+        },
+        {
+          "id": "step-3",
+          "stepNumber": "03",
+          "badge": "TRANSPARENT AUDIT",
+          "badgeBg": "#0F2744",
+          "badgeTextColor": "#FFFFFF",
+          "title": "Merit List & Statutory Ranking",
+          "description": "Automated computation with 60% Sports Trial Grade + 40% Academic Qualifying Aggregate. Category-wise reservation rosters sealed by University Syndicate.",
+          "tags": [
+            "• Syndicate Formula",
+            "• Public Grievance Window"
+          ],
+          "tagColor": "#001229",
+          "buttonText": "VIEW PROVISIONAL DATES",
+          "buttonLink": "#",
+          "buttonIcon": "/admissions/p3.png",
+          "buttonTheme": "light"
+        },
+        {
+          "id": "step-4",
+          "stepNumber": "04",
+          "badge": "FINAL ADMIT",
+          "badgeBg": "#002D1C",
+          "badgeTextColor": "#6FFBBE",
+          "title": "Counselling & SBIPay Gateway",
+          "description": "In-person document verification, athletic medical fitness clearance, and instant seat allotment with State Bank of India e-Pay statutory gateway.",
+          "tags": [
+            "• Instant Fee Receipt",
+            "• Hostel Priority Queue"
+          ],
+          "tagColor": "#002D1C",
+          "buttonText": "FEE CLEARANCE STEPS",
+          "buttonLink": "#",
+          "buttonIcon": "/admissions/p4.png",
+          "buttonTheme": "light"
+        }
+      ]
+    },
+    "eligibility": {
+      "tag": "Interactive Calculator",
+      "title": "Eligibility Checker & Fee Estimator",
+      "icon": "/admissions/e1.png",
+      "selectOptions": {
+        "programme": {
+          "label": "Target Programme",
+          "options": [
+            {
+              "label": "B.P.Ed (Bachelor of Physical Education) - 2 Yrs"
+            },
+            {
+              "label": "M.Ed (Master of Education) - 2 Yrs"
+            },
+            {
+              "label": "B.Ed (Bachelor of Education) - 2 Yrs"
+            }
+          ]
+        },
+        "domicile": {
+          "label": "Applicant Domicile / Quota",
+          "options": [
+            {
+              "label": "Punjab Domicile - General (85% Quota)"
+            },
+            {
+              "label": "Other State (15% Quota)"
+            },
+            {
+              "label": "Punjab Domicile - Reserved Category"
+            }
+          ]
+        },
+        "accommodation": {
+          "label": "Hostel & Mess Accommodation",
+          "options": [
+            {
+              "label": "Day Scholar (No Campus Lodging)"
+            },
+            {
+              "label": "Hostel & Mess Accommodation"
+            }
+          ]
+        }
+      },
+      "commitment": {
+        "tag": "Estimated Semester Commitment",
+        "amount": "₹ 24,850",
+        "periodSuffix": "/ Semester (inclusive of Gym & Sports Labs)",
+        "waiverSchemeBadge": "Eligible for Punjab Post-Matric / Medallist Direct Waiver Scheme",
+        "buttonText": "Apply Calculation"
+      }
+    },
+    "statutory": {
+      "tag": "Governance Directives",
+      "title": "Statutory Reservation & Sports Quota Distribution",
+      "actBadge": "ACT 11 OF 2019",
+      "rows": [
+        {
+          "id": "stat-1",
+          "category": "State Domicile Pool (Punjab)",
+          "description": "Permanent residents of Punjab with valid Tehsildar certificate",
+          "allocation": "85% Total Intake",
+          "benchmark": "Punjab Inter-District or Inter-College Participant",
+          "fee": "Standard Scale"
+        },
+        {
+          "id": "stat-2",
+          "category": "National / International Champions Quota",
+          "description": "Olympic / Commonwealth / Asian Games / Senior National Medalists",
+          "allocation": "Supernumerary (10)",
+          "benchmark": "Gold, Silver, Bronze in SAI/IOA Approved Events",
+          "fee": "100% Full Waiver",
+          "feeBadge": "bg-[#6ffbbe] text-[#002113]"
+        },
+        {
+          "id": "stat-3",
+          "category": "Scheduled Castes / Scheduled Tribes (SC/ST)",
+          "description": "As per Punjab Govt. Reservation Notification",
+          "allocation": "25% Statutory",
+          "benchmark": "Qualifying 50% Trial Aggregate + State Participation",
+          "fee": "Post-Matric Sch.",
+          "feeBadge": "bg-[#FFDCC3] text-[#2f1500]"
+        },
+        {
+          "id": "stat-4",
+          "category": "Wards of Armed Forces & Punjab Police",
+          "description": "Gallantry awardees & active defense personnel dependents",
+          "allocation": "2% Horizontal",
+          "benchmark": "AAHPER Standard Test cleared with Grade 'B'",
+          "fee": "50% Tuition Relief"
+        },
+        {
+          "id": "stat-5",
+          "category": "All-India Open Merit",
+          "description": "Candidates from all States & Union Territories",
+          "allocation": "15% Intake",
+          "benchmark": "National School Games / SGFI / All-India Inter-University",
+          "fee": "Standard Scale"
+        }
+      ]
+    },
+    "feeStructure": {
+      "tag": "Statutory Finance Ledger",
+      "title": "Approved Academic Fee Structure (AY 2025-26)",
+      "icon": "/admissions/approved.png",
+      "feeCards": [
+        {
+          "id": "fee-ug",
+          "category": "UNDERGRADUATE",
+          "title": "B.P.Ed / B.Sc. Sports",
+          "totalLabel": "Total 1st Sem:",
+          "rows": [
+            {
+              "label": "Tuition Fee (Per Sem):",
+              "amount": "₹ 18,500"
+            },
+            {
+              "label": "Sports Lab & Gym Fund:",
+              "amount": "₹ 4,000"
+            },
+            {
+              "label": "Library & E-Resource:",
+              "amount": "₹ 1,500"
+            },
+            {
+              "label": "Refundable Caution:",
+              "amount": "₹ 2,000"
+            }
+          ]
+        },
+        {
+          "id": "fee-pg",
+          "category": "POSTGRADUATE",
+          "title": "M.P.Ed / M.Sc. Biomechanics",
+          "totalLabel": "Total 1st Sem:",
+          "rows": [
+            {
+              "label": "Tuition Fee (Per Sem):",
+              "amount": "₹ 22,000"
+            },
+            {
+              "label": "High-Perf. Testing Fee:",
+              "amount": "₹ 6,500"
+            },
+            {
+              "label": "Library & E-Resource:",
+              "amount": "₹ 2,000"
+            },
+            {
+              "label": "Refundable Caution:",
+              "amount": "₹ 3,000"
+            }
+          ]
+        },
+        {
+          "id": "fee-hostel",
+          "category": "CAMPUS HOSTEL",
+          "title": "Athletes Village Lodging",
+          "totalLabel": "Total Sem Boarding:",
+          "rows": [
+            {
+              "label": "Hostel Rent (Per Sem):",
+              "amount": "₹ 12,000"
+            },
+            {
+              "label": "Nutritional Mess Deposit:",
+              "amount": "₹ 15,000"
+            },
+            {
+              "label": "Laundry & Conditioning:",
+              "amount": "₹ 2,500"
+            },
+            {
+              "label": "Hostel Caution Deposit:",
+              "amount": "₹ 2,500"
+            }
+          ]
+        }
+      ]
+    },
+    "sidebar": {
+      "trialsGuide": {
+        "tag": "TRIALS EVALUATION GUIDE",
+        "icon": "/admissions/run.png",
+        "title": "AAHPER Youth Fitness Battery",
+        "description": "Standard mandatory testing for all undergraduate and postgraduate athletic applicants.",
+        "trials": [
+          {
+            "id": "tr-1",
+            "title": "1. 50m Speed Dash",
+            "detail": "Benchmark: <6.5s (Male) | <7.2s (Female)",
+            "score": "Max 20 Pts"
+          },
+          {
+            "id": "tr-2",
+            "title": "2. 4×10m Shuttle Agility",
+            "detail": "Benchmark: <9.8s (Male) | <10.5s (Female)",
+            "score": "Max 20 Pts"
+          },
+          {
+            "id": "tr-3",
+            "title": "3. Standing Broad Jump",
+            "detail": "Benchmark: >2.40m (Male) | >1.95m (Female)",
+            "score": "Max 20 Pts"
+          },
+          {
+            "id": "tr-4",
+            "title": "4. Specific Game Trial",
+            "detail": "Assessed by National Coach Panel in chosen discipline",
+            "score": "Max 40 Pts"
+          }
+        ],
+        "notice": "All field trials are 100% video-recorded with RFID timing chips for transparency.",
+        "noticeIcon": "/admissions/fan.png"
+      },
+      "downloads": {
+        "tag": "STATUTORY PROFORMAS & PDFs",
+        "icon": "/admissions/download.png",
+        "title": "Official University Downloads",
+        "items": [
+          {
+            "id": "dl-1",
+            "icon": "/admissions/pdf.png",
+            "title": "Admissions Brochure 2025-26",
+            "href": "/admissions/admissions-brochure-2025-26.pdf",
+            "detail": "PDF • 8.4 MB • Signed by Registrar"
+          },
+          {
+            "id": "dl-2",
+            "icon": "/admissions/pdf.png",
+            "title": "Sports Trials Scoring & Rubric",
+            "href": "/admissions/sports-trials-scoring-rubric.pdf",
+            "detail": "PDF • 1.2 MB • AAHPER Guidelines"
+          },
+          {
+            "id": "dl-3",
+            "icon": "/admissions/paper.png",
+            "title": "Medical Fitness Proforma",
+            "href": "/admissions/medical-fitness-proforma.pdf",
+            "detail": "Civil Surgeon / CMO Attestation Form"
+          },
+          {
+            "id": "dl-4",
+            "icon": "/admissions/hammer.png",
+            "title": "Anti-Ragging Undertaking (UGC)",
+            "href": "/admissions/anti-ragging-undertaking.pdf",
+            "detail": "Affidavit Format AY 2025-26"
+          }
+        ]
+      },
+      "helpdesk": {
+        "tag": "ADMISSIONS BUREAU HELPDESK",
+        "icon": "/admissions/female.png",
+        "title": "Direct Assistance & Grievances",
+        "phoneLabel": "ADMISSIONS DESK DIRECT",
+        "phone": "+91-175-2920205 / 2920210",
+        "whatsappLabel": "WHATSAPP CANDIDATE HELPLINE",
+        "whatsapp": "+91-98770-12019 (9 AM - 6 PM)",
+        "emailLabel": "OFFICIAL BUREAU EMAIL",
+        "email": "admissions2025@mbpsu.ac.in",
+        "ticketUrl": "https://mbpsu.ac.in/admissions/ticket-generator",
+        "ticketButtonText": "GENERATE CANDIDATE TICKET",
+        "ticketSlaNotice": "Ticket Reference: FR-FD-01 / 02 Bureau SLA < 24h"
+      },
+      "venueMap": {
+        "tag": "TRIALS PHYSICAL VENUE",
+        "icon": "/admissions/gps.png",
+        "venueName": "Raja Bhalindra Singh Sports Complex\nMaharaja Bhupinder Singh Punjab Sports University\nLower Mall Road, Patiala, Punjab - 147001",
+        "mapUrl": "https://maps.app.goo.gl/CrQQUz7pVhMdSTDf9",
+        "coordinates": "Geo-Coordinates: 30.3244° N, 76.3980° E",
+        "embedQuery": "30.323588,76.389838"
+      }
+    }
+  },
+  "researchAndLabs": {
+    "hero": {
+      "tag": "APEX RESEARCH DIVISION",
+      "heading": "Sports Science Laboratories & Advanced Biomechanics",
+      "subheading": "Equipped with Vicon optical motion capture, AMTI tri-axial force plates, Cosmed metabolic carts, and high-altitude hypoxia simulation chambers.",
+      "grantSummary": "₹42.5 Cr Khelo India Centre of Excellence Sanction"
+    },
+    "metrics": [
+      {
+        "id": "met-1",
+        "label": "Research Grants Sanctioned",
+        "value": "₹42.5 Cr"
+      },
+      {
+        "id": "met-2",
+        "label": "High-Speed Motion Cameras",
+        "value": "16 Units (1000 FPS)"
+      },
+      {
+        "id": "met-3",
+        "label": "Indexed Research Papers",
+        "value": "85+ Scopus/WoS"
+      },
+      {
+        "id": "met-4",
+        "label": "Sponsored Projects",
+        "value": "14 Projects"
+      }
+    ],
+    "laboratories": [
+      {
+        "id": "lab-1",
+        "code": "FACILITY-01",
+        "name": "3D Vicon Motion Capture & Kinematic Analytics Arena",
+        "category": "Biomechanics",
+        "lead": "Dr. Manpreet Singh (Senior Biomechanist)",
+        "equipment": "16 Vicon Vero optical infrared cameras, 2 AMTI tri-axial ground reaction force plates (10,000 Hz), Noraxon 16-channel wireless sEMG",
+        "description": "Analyzes joint shear forces, rotational torques, and kinetic chaining in track runners, field throwers, and hockey drag flickers.",
+        "status": "OPERATIONAL"
+      },
+      {
+        "id": "lab-2",
+        "code": "FACILITY-02",
+        "name": "Cardio-Respiratory & Exercise Physiology Lab",
+        "category": "Physiology",
+        "lead": "Dr. Harinder Kaur (Exercise Physiologist)",
+        "equipment": "Cosmed K5 wireless metabolic cart, Woodway high-performance treadmill, Monark cycle ergometer, Lactate Scout 4 analyzers",
+        "description": "Calculates VO2 max kinetics, ventilatory anaerobic thresholds, and running economy for endurance athletes.",
+        "status": "OPERATIONAL"
+      },
+      {
+        "id": "lab-3",
+        "code": "FACILITY-03",
+        "name": "Sports Biochemistry & Nutritional Profiling Facility",
+        "category": "Nutrition & Biochemistry",
+        "lead": "Dr. R.K. Sharma (Biochemist)",
+        "equipment": "High-performance liquid chromatography (HPLC), automated blood chemistry analyzer, BodPod body composition plethysmograph",
+        "description": "Monitors glycogen depletion, cortisol/testosterone ratios, electrolyte turnover, and customized recovery diets.",
+        "status": "OPERATIONAL"
+      },
+      {
+        "id": "lab-4",
+        "code": "FACILITY-04",
+        "name": "Sports Psychology & Neuro-Cognitive Conditioning Suite",
+        "category": "Psychology",
+        "lead": "Dr. Neha Verma (Sports Psychologist)",
+        "equipment": "Tobii Pro eye-tracking glasses, Biofeedback EEG brainwave monitors, Senaptec sensory performance station",
+        "description": "Trains visual reaction times, decision-making under stress, and competitive mental arousal regulation.",
+        "status": "OPERATIONAL"
+      }
+    ],
+    "grants": [
+      {
+        "id": "grt-1",
+        "title": "Establishment of Khelo India Centre of Excellence in Sports Biomechanics",
+        "agency": "Ministry of Youth Affairs & Sports (MYAS), Govt of India",
+        "amount": "₹28,50,00,000",
+        "pi": "Lt. Gen. (Dr.) J.S. Cheema / Dr. G.S. Brar",
+        "status": "ONGOING (2024-2027)"
+      },
+      {
+        "id": "grt-2",
+        "title": "Kinematic Optimization of Ground Reaction Forces in High Jumpers",
+        "agency": "Sports Authority of India (SAI) Research Wing",
+        "amount": "₹4,20,00,000",
+        "pi": "Dr. Manpreet Singh",
+        "status": "ACTIVE"
+      },
+      {
+        "id": "grt-3",
+        "title": "Hypoxic Training Adaptations in Punjabi Middle-Distance Runners",
+        "agency": "Department of Science & Technology (DST-SERB)",
+        "amount": "₹9,80,00,000",
+        "pi": "Dr. Harinder Kaur",
+        "status": "SANCTIONED"
+      }
+    ],
+    "heroSection": {
+      "tag": "APEX SCIENTIFIC WING",
+      "heading": "Pioneering Olympic-Grade Sports Science, Biomechanics & Kinetic Inquiry",
+      "subheading": "State-of-the-art laboratory infrastructure dedicated to multi-planar kinematic modeling, VO₂ max hypoxic cellular kinetics, and indigenous equipment optimization. Bridging grassroots Punjabi talent with podium finishes at Paris, Los Angeles, and Brisbane through precision biomechanics.",
+      "grantSummary": "₹42.5 Cr Khelo India Centre of Excellence Sanction",
+      "badges": [
+        "NABL & SAI CO-ACCREDITED",
+        "Code: MBSPSU-RSIH-2025"
+      ]
+    },
+    "sportsStats": [
+      {
+        "id": "grants",
+        "label": "ACTIVE SPONSORED GRANTS",
+        "value": "₹4.82 Cr",
+        "detail": "MYAS, SAI & DST Approved"
+      },
+      {
+        "id": "publications",
+        "label": "INDEXED PUBLICATIONS",
+        "value": "142",
+        "detail": "Scopus / Web of Science (Q1 & Q2)"
+      },
+      {
+        "id": "athletes",
+        "label": "ELITE ATHLETES PROFILED",
+        "value": "1,840+",
+        "detail": "Olympic & Khelo India Cadres"
+      },
+      {
+        "id": "uptime",
+        "label": "CRF INSTRUMENT UPTIME",
+        "value": "99.2%",
+        "detail": "NABL Calibrated Bi-weekly"
+      }
+    ],
+    "scienceLaboratories": {
+      "kinematicsMetrics": [
+        {
+          "label": "Optical Sensors",
+          "value": "16 Vicon Vero",
+          "detail": "Sub-millimeter margin"
+        },
+        {
+          "label": "Force Platforms",
+          "value": "AMTI 6-DOF Dual",
+          "detail": "CoP vectors recorded"
+        },
+        {
+          "label": "Primary Focus",
+          "value": "Javelin & Sprints",
+          "detail": "Release kinetics"
+        }
+      ]
+    },
+    "nationalResearchGrants": [
+      {
+        "id": "myas",
+        "grant": "MYAS Grant 2024-27",
+        "amount": "₹1.85 Cr",
+        "title": "Kinematic Optimization in Javelin Release Dynamics for Elite Indian Throwers",
+        "description": "Collaborative inquiry with Netaji Subhas National Institute of Sports (NSNIS) Patiala analyzing run-up braking impulses, thoracic twist angle, and aerodynamic flutter coefficients under varying wind resistance.",
+        "investigator": "PI: Prof. H. Singh",
+        "target": "Target: Paris & LA 2028",
+        "status": "Stage 2 In-Field Testing Active",
+        "progress": "ongoing"
+      },
+      {
+        "id": "sai",
+        "grant": "SAI Fellowship",
+        "amount": "₹95.0 Lakhs",
+        "title": "Genetic Polymorphisms & Aerobic Response in Elite Punjab Endurance Runners",
+        "description": "Investigation into ACE I/D and ACTN3 R577X allele frequency distributions among state cross-country squads, cross-referenced with red-cell volume changes during 6-week altitude adaptation regimes.",
+        "investigator": "PI: Dr. G. K. Sandhu",
+        "target": "Cohort: 210 Athletes",
+        "status": "Genotyping Phase (75% Complete)",
+        "progress": "ongoing"
+      },
+      {
+        "id": "wada",
+        "grant": "WADA / NADA Alliance",
+        "amount": "₹68.4 Lakhs",
+        "title": "Endogenous Steroid Profile Longitudinal Profiling & Steroid Passports",
+        "description": "Establishment of localized biological passport reference ranges for sub-continental athletes to distinguish between natural physiological fluctuations and doping adulterations in hot-humid conditions.",
+        "investigator": "PI: Dr. Simrat Dhillon",
+        "target": "Regulatory: ICMR & NADA",
+        "status": "Baseline Urine Assay Aggregation",
+        "progress": "completed"
+      }
+    ],
+    "academicPublications": [
+      {
+        "title": "Angular Velocity of Pelvic-Lumbar Axis in Elite Compound Archery",
+        "doi": "10.1016/j.jbiomech.2024.112089",
+        "faculty": "Dr. H. Singh, Er. Manjit Rai",
+        "orcid": "0000-0002-8812-9923",
+        "journal": "Journal of Biomechanics",
+        "quartile": "Q1 Index",
+        "impact": "3.42",
+        "citations": "99"
+      },
+      {
+        "title": "Electromyographic Asymmetry During Deep Squat Cleans in Junior Weightlifters",
+        "doi": "10.1080/02640414.2024.2384910",
+        "faculty": "Dr. R. Verma, Navjot Kaur",
+        "orcid": "0000-0003-1244-0199",
+        "journal": "Journal of Sports Sciences",
+        "quartile": "Q1 Index",
+        "impact": "3.89",
+        "citations": "99"
+      },
+      {
+        "title": "Thermal Stress & Electrolyte Depletion Kinetics in Kabbadi Athletes Under High Humidity",
+        "doi": "10.1007/s00421-024-05541-x",
+        "faculty": "Dr. S. Dhillon, Dr. Gurpreet K.",
+        "orcid": "0000-0003-5552-7721",
+        "journal": "European Journal of Applied Physiology",
+        "quartile": "Q2 Index",
+        "impact": "2.98",
+        "citations": "99"
+      }
+    ],
+    "slotBooking": {
+      "facilityOptions": [
+        "Comprehensive Biomechanical Sprint Profile",
+        "Cardiorespiratory VO₂ Max & Ventilatory Threshold",
+        "Biodex Multi-Joint Isokinetic Quadriceps/Hamstrings",
+        "Normobaric Hypoxic Chamber Conditioning"
+      ]
+    },
+    "statutoryCompliance": [
+      {
+        "title": "Human Participant Safety",
+        "description": "Mandatory prior written informed assent for junior athletes (<18 yrs) and parental consent forms in Punjabi, Hindi, and English. Continuous emergency ECG monitoring required for VO₂ max tests exceeding 90% HR max.",
+        "badge": "ICMR Guideline Compliant"
+      },
+      {
+        "title": "WADA / NADA Integrity Code",
+        "description": "Zero tolerance for prohibited performance enhancements in scientific trials. Blood micro-samples securely destroyed 90 days post-assay per biological hazard clearance standards.",
+        "badge": "NADA Clean Sport Charter"
+      }
+    ]
+  },
+  "tenders": {
+    "hero": {
+      "badge": "DIRECTORATE OF PROCUREMENT & INFRASTRUCTURE",
+      "heading": "Official E-Tenders & Procurement Portal",
+      "subheading": "Maharaja Bhupindra Singh Punjab Sports University invites competitive bids through Punjab e-Procurement and Government e-Marketplace (GeM).",
+      "gemNotice": "All procurements comply with Punjab Transparency in Public Procurement Act."
+    },
+    "tendersList": [
+      {
+        "id": "tnd-1",
+        "ref": "MBPSPU/PUR/ERP/2026/01",
+        "category": "E-PROCUREMENT (TWO-COVER)",
+        "title": "Comprehensive Turnkey Solution for Cloud-Hosted Integrated University ERP, Sports High-Performance Module & Biometric Systems",
+        "wing": "Directorate of Digital Transformation & Registrar Secretariat",
+        "value": "₹4,20,00,000",
+        "emd": "₹8,40,000 (2.0%)",
+        "fee": "₹10,000 + GST",
+        "published": "10 May 2026",
+        "deadline": "15 June 2026 (15:00 IST)",
+        "openingDate": "16 June 2026",
+        "status": "CORRIGENDUM ISSUED",
+        "rfpDocUrl": "/tenders/rfp-erp-system.pdf",
+        "boqDocUrl": "/tenders/boq-erp.xlsx",
+        "corrigendumDocUrl": "/tenders/corrigendum-1.pdf",
+        "note": "Pre-bid queries answered; deadline extended."
+      },
+      {
+        "id": "tnd-2",
+        "ref": "MBPSPU/EQUIP/2026/04",
+        "category": "GLOBAL TENDER NOTICE",
+        "title": "Supply, Installation & Commissioning of Multi-Camera 3D High-Speed Motion Capture System with Dual Force Plates for Biomechanics Complex",
+        "wing": "Department of Sports Science & Olympic Training Centre",
+        "value": "₹1,65,00,000",
+        "emd": "₹3,30,000",
+        "fee": "₹5,000",
+        "published": "14 May 2026",
+        "deadline": "22 June 2026 (14:00 IST)",
+        "openingDate": "24 June 2026",
+        "status": "ACTIVE (OPEN FOR BID)",
+        "rfpDocUrl": "/tenders/rfp-vicon-capture.pdf",
+        "boqDocUrl": "/tenders/boq-motion.xlsx",
+        "corrigendumDocUrl": "",
+        "note": "OEM Authorization and ISO certifications mandatory."
+      },
+      {
+        "id": "tnd-3",
+        "ref": "MBPSPU/CIVIL/2026/09",
+        "category": "WORKS & SERVICES CONTRACT",
+        "title": "Annual Maintenance Contract (AMC) for 8-Lane Synthetic Track & Sub-Aquatic Olympic Pool Filtration Plant",
+        "wing": "University Engineering & Sports Infrastructure Division",
+        "value": "₹78,50,000",
+        "emd": "₹1,57,000",
+        "fee": "₹2,500",
+        "published": "18 May 2026",
+        "deadline": "08 June 2026 (11:00 IST)",
+        "openingDate": "09 June 2026",
+        "status": "ACTIVE (SITE VISIT OPEN)",
+        "rfpDocUrl": "/tenders/rfp-amc-track-pool.pdf",
+        "boqDocUrl": "/tenders/boq-civil.xlsx",
+        "corrigendumDocUrl": "",
+        "note": "Site inspection mandatory on 26 May 2026."
+      },
+      {
+        "id": "tnd-4",
+        "ref": "MBPSPU/KIT/2026/12",
+        "category": "GEM CUSTOM BID (BOQ)",
+        "title": "Procurement of High-Grade Track Running Spikes, Throwing Implements, and Competition Timing Consoles",
+        "wing": "Directorate of Sports & Athletics Coaching",
+        "value": "₹34,00,000",
+        "emd": "₹68,000",
+        "fee": "Exempted for MSME",
+        "published": "20 May 2026",
+        "deadline": "05 June 2026 (17:00 IST)",
+        "openingDate": "06 June 2026",
+        "status": "UNDER EVALUATION",
+        "rfpDocUrl": "/tenders/gem-custom-bid.pdf",
+        "boqDocUrl": "/tenders/boq-kit.xlsx",
+        "corrigendumDocUrl": "",
+        "note": "Bids opened on GeM portal; technical scrutiny ongoing."
+      }
+    ]
+  },
+  "rti": {
+    "hero": {
+      "heading": "Right to Information (RTI) & Statutory Disclosures",
+      "subheading": "Maharaja Bhupindra Singh Punjab Sports University is committed to complete administrative transparency and statutory compliance under the RTI Act, 2005.",
+      "actReference": "Section 4(1)(b) of Right to Information Act, 2005"
+    },
+    "metrics": [
+      {
+        "id": "rti-m1",
+        "label": "RTI Applications Received (AY 2025-26)",
+        "value": "128"
+      },
+      {
+        "id": "rti-m2",
+        "label": "Disposed Within 30-Day Window",
+        "value": "126 (98.4%)"
+      },
+      {
+        "id": "rti-m3",
+        "label": "First Appeals Adjudicated",
+        "value": "4"
+      },
+      {
+        "id": "rti-m4",
+        "label": "Average Disposal Turnaround",
+        "value": "14 Days"
+      }
+    ],
+    "officers": [
+      {
+        "id": "off-1",
+        "designation": "FIRST APPELLATE AUTHORITY (FAA)",
+        "name": "Prof. (Dr.) Manjit Singh",
+        "officialRole": "Registrar, MBSPSU",
+        "office": "Room No. 102, Administrative Block, Mohindra Kothi, Patiala",
+        "phone": "+91-175-2920250 (Ext. 101)",
+        "email": "registrar@mbspsu.ac.in"
+      },
+      {
+        "id": "off-2",
+        "designation": "CENTRAL PUBLIC INFORMATION OFFICER (CPIO)",
+        "name": "Dr. Gurpreet Kaur",
+        "officialRole": "Deputy Registrar (Establishment)",
+        "office": "Room No. 204, Administrative Block, Mohindra Kothi, Patiala",
+        "phone": "+91-175-2920252",
+        "email": "cpio@mbspsu.ac.in"
+      },
+      {
+        "id": "off-3",
+        "designation": "ASSISTANT PUBLIC INFORMATION OFFICER (APIO)",
+        "name": "Shri Harjinder Singh",
+        "officialRole": "Superintendent (Legal & RTI Branch)",
+        "office": "Ground Floor, Legal Branch, Mohindra Kothi, Patiala",
+        "phone": "+91-175-2920255",
+        "email": "apio@mbspsu.ac.in"
+      }
+    ],
+    "manuals": [
+      {
+        "id": "man-1",
+        "number": "Manual 01",
+        "title": "Particulars of Organization, Functions & Duties",
+        "summary": "Statutory enactment, jurisdiction, mandate, and organizational chart of the University.",
+        "url": "/downloads/rti/manual-1.pdf"
+      },
+      {
+        "id": "man-2",
+        "number": "Manual 02",
+        "title": "Powers and Duties of Officers and Employees",
+        "summary": "Detailed administrative, financial, and statutory responsibilities of Chancellor, VC, Registrar, and Deans.",
+        "url": "/downloads/rti/manual-2.pdf"
+      },
+      {
+        "id": "man-3",
+        "number": "Manual 03",
+        "title": "Procedure Followed in Decision Making Process",
+        "summary": "Channels of supervision, accountability framework, and governance council mechanisms.",
+        "url": "/downloads/rti/manual-3.pdf"
+      },
+      {
+        "id": "man-4",
+        "number": "Manual 04",
+        "title": "Norms Set for the Discharge of Functions",
+        "summary": "Service rules, turnaround timelines for public services, student transcripts, and degree verification.",
+        "url": "/downloads/rti/manual-4.pdf"
+      },
+      {
+        "id": "man-11",
+        "number": "Manual 11",
+        "title": "Budget Allocated to Each Agency & Expenditure Statements",
+        "summary": "State grant allocation, Khelo India CoE funds, tuition revenue, and audited financial statements.",
+        "url": "/downloads/rti/manual-11.pdf"
+      }
+    ]
+  },
+  "events": {
+    "hero": {
+      "badge": "CHAMPIONSHIP CIRCUIT 2026",
+      "heading": "State & Inter-University Sports Championships",
+      "subheading": "Comprehensive tournament fixtures, results archives, medal tallies, and reporting timetables across track, field, aquatics, and combat sports."
+    },
+    "eventsList": [
+      {
+        "id": "evt-1",
+        "name": "Punjab State Inter-University Athletics Championship 2026",
+        "sport": "Athletics",
+        "date": "2026-06-15",
+        "endDate": "2026-06-18",
+        "location": "8-Lane Synthetic Track, MBSPSU Patiala",
+        "status": "Upcoming",
+        "category": "Inter-University Championship",
+        "registrationDeadline": "2026-06-05",
+        "rulesUrl": "/events/rules-athletics-2026.pdf"
+      },
+      {
+        "id": "evt-2",
+        "name": "All India Inter-University Aquatics & Diving Meet",
+        "sport": "Swimming & Diving",
+        "date": "2026-06-25",
+        "endDate": "2026-06-29",
+        "location": "Olympic Aquatics Complex, MBSPSU Patiala",
+        "status": "Upcoming",
+        "category": "National Inter-Varsity Meet",
+        "registrationDeadline": "2026-06-15",
+        "rulesUrl": "/events/rules-aquatics-2026.pdf"
+      },
+      {
+        "id": "evt-3",
+        "name": "Punjab State Youth Track Cycling Trials",
+        "sport": "Track Cycling",
+        "date": "2026-05-30",
+        "endDate": "2026-05-31",
+        "location": "Siberian Pine Velodrome, Patiala",
+        "status": "Ongoing",
+        "category": "State Selection Trials",
+        "registrationDeadline": "2026-05-25",
+        "rulesUrl": "/events/rules-cycling-trials.pdf"
+      },
+      {
+        "id": "evt-4",
+        "name": "State Sports University Basketball Invitational Cup",
+        "sport": "Basketball",
+        "date": "2026-05-10",
+        "endDate": "2026-05-13",
+        "location": "Multipurpose Indoor Arena",
+        "status": "Completed",
+        "category": "Varsity Invitational",
+        "registrationDeadline": "2026-05-01",
+        "rulesUrl": "/events/results-basketball-cup.pdf"
+      }
+    ]
+  },
+  "header": {
+    "topBar": {
+      "govtTag": "GOVT. OF PUNJAB",
+      "tollFreeLabel": "Toll-Free Admissions:",
+      "tollFreePhone": "1800-180-2019",
+      "portalBadgeLabel": "NIRF Portal",
+      "portalBadgeUrl": "https://www.nirfindia.org",
+      "showFontResizers": true,
+      "showThemeToggle": true,
+      "languages": [
+        {
+          "code": "en",
+          "label": "English",
+          "href": "/",
+          "isActive": true
+        },
+        {
+          "code": "pa",
+          "label": "ਪੰਜਾਬੀ",
+          "href": "/",
+          "isActive": true
+        },
+        {
+          "code": "hi",
+          "label": "हिन्दी",
+          "href": "/",
+          "isActive": true
+        }
+      ]
+    },
+    "branding": {
+      "logoUrl": "/dashboard/MBSPSU_logo.svg",
+      "logoAlt": "MBSPSU Patiala Executive Governance Portal",
+      "universityTitle": "Maharaja Bhupinder Singh Punjab Sports University",
+      "universitySubtitle": "State Apex Collegiate & Olympic High-Performance Center • Patiala • Established under Punjab Act No. 11 of 2019",
+      "dignitaryRole": "Chancellor • Governor of Punjab",
+      "dignitaryName": "Gulab Chand Kataria",
+      "dignitaryIcon": "/dashboard/Icon1.svg",
+      "showDignitary": true
+    },
+    "navigation": {
+      "links": [
+        {
+          "id": "1",
+          "label": "Home",
+          "href": "/",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "2",
+          "label": "About MBSPSU",
+          "href": "/about",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "3",
+          "label": "Academic Programmes",
+          "href": "/academic",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "4",
+          "label": "Sports Infrastructure",
+          "href": "/sportsinfrastructure",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "5",
+          "label": "Admissions 2025-26",
+          "href": "/admissions",
+          "order": 5,
+          "isActive": true,
+          "badge": "AY 25-26"
+        },
+        {
+          "id": "6",
+          "label": "Research & Labs",
+          "href": "/researchAndLabs",
+          "order": 6,
+          "isActive": true
+        },
+        {
+          "id": "7",
+          "label": "Tenders & Notices",
+          "href": "/tenders",
+          "order": 7,
+          "isActive": true
+        },
+        {
+          "id": "8",
+          "label": "RTI & Disclosures",
+          "href": "/rti",
+          "order": 8,
+          "isActive": true
+        }
+      ],
+      "showSsoButton": false,
+      "ssoButtonLabel": "ERP Portal SSO",
+      "ssoButtonUrl": "/"
+    }
+  },
+  "footer": {
+    "primary": {
+      "crestUrl": "/footer/MBSPSU Crest.png",
+      "crestTitle": "MBSPSU PATIALA",
+      "crestTag": "Punjab Act No. 11 of 2019",
+      "description": "Maharaja Bhupinder Singh Punjab Sports University is the premier apex institution established by the State Government of Punjab to advance scientific physical education, sports biomechanics, high-performance coaching, and Olympic disciplines.",
+      "address": "Mohindra Kothi Campus, Near Fountain Chowk, Patiala, Punjab - 147001",
+      "registrarPhone": "0175-2920219",
+      "antiRaggingTollFree": "1800-180-5522",
+      "statutoryBodies": [
+        "University Grants Commission (UGC)",
+        "Association of Indian Universities (AIU)",
+        "Sports Authority of India (SAI)",
+        "Ministry of Youth Affairs & Sports",
+        "Khelo India Mission"
+      ],
+      "governance": [
+        "The Chancellor & Vice-Chancellor",
+        "Syndicate & Academic Council",
+        "Finance & Works Committee",
+        "POSH & Grievance Cell",
+        "Right to Information (RTI)"
+      ],
+      "qualityBadges": [
+        {
+          "id": "1",
+          "title": "GIGW & WCAG 2.1 AA",
+          "subtitle": "Certified Web Quality Guidelines"
+        },
+        {
+          "id": "2",
+          "title": "ISO 9001:2015",
+          "subtitle": "Quality Management System Compliant"
+        },
+        {
+          "id": "3",
+          "title": "State Data Centre (SDC)",
+          "subtitle": "Secured on Punjab Govt Cloud Infrastructure"
+        }
+      ],
+      "copyrightText": "© 2025 Maharaja Bhupinder Singh Punjab Sports University, Patiala. All Rights Reserved.",
+      "tagline": "Designed for Apex Sports Governance",
+      "lastUpdated": "Last Updated: 24 May 2025"
+    },
+    "variant2": {
+      "complianceBadges": [
+        "GIGW 3.0 & WCAG 2.1 AA COMPLIANT",
+        "STQC CERTIFIED SAFE",
+        "ISO 9001:2015"
+      ],
+      "hostingText": "Hosted on Punjab State Data Centre (SDC) • National Cloud",
+      "statutoryBodies": [
+        "University Grants Commission (UGC)",
+        "Association of Indian Universities (AIU)",
+        "Sports Authority of India (SAI)",
+        "Ministry of Youth Affairs & Sports",
+        "Khelo India State Centre of Excellence"
+      ],
+      "governanceBodies": [
+        "Chancellor & Governor Secretariat",
+        "Vice-Chancellor's Secretariat",
+        "The Syndicate & Senate Minutes",
+        "Statutory Finance Committee",
+        "POSH & Internal Complaints Committee",
+        "Anti-Ragging Regulatory Cell"
+      ],
+      "campusTitle": "Maharaja Bhupinder Singh Punjab Sports University",
+      "campusAddress1": "Mohindra Kothi Campus, Lower Mall Road",
+      "campusAddress2": "Patiala, Punjab, PIN - 147001, India",
+      "campusEmail": "registrar@mbspsu.ac.in",
+      "campusPhone": "EPABX: +91-175-2920201 / 2920202",
+      "mandateDescription": "Established as a premier statutory sports university by the Punjab State Legislature to foster academic excellence in sports science, physical education, high-performance coaching, and sports management.",
+      "eOfficeButtonLabel": "Employee e-Office",
+      "eOfficeButtonUrl": "#",
+      "copyrightText": "© 2025 Maharaja Bhupinder Singh Punjab Sports University (MBSPSU), Patiala. All Rights Reserved.",
+      "bottomLinks": [
+        {
+          "label": "Terms of Use",
+          "href": "#"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "label": "Hyperlink Policy",
+          "href": "#"
+        },
+        {
+          "label": "Site Map",
+          "href": "#"
+        },
+        {
+          "label": "Helpdesk",
+          "href": "#"
+        }
+      ]
+    },
+    "variant3": {
+      "monogramLetter": "M",
+      "title": "MBSPSU PATIALA",
+      "description": "The Maharaja Bhupinder Singh Punjab Sports University is a specialized apex state university established by the Government of Punjab for sports education, biomechanics, high-performance coaching, and sports science excellence.",
+      "address": "Administrative Block, Mohindra Kothi, Mall Road, Patiala, Punjab -147001",
+      "registrarEmail": "registrar@mbspsu.ac.in",
+      "governanceLinks": [
+        "The University Act & Statutes",
+        "Statutory Governing Syndicate Council",
+        "Academic Council Ordinances",
+        "Finance Committee Records",
+        "Internal Complaints Committee (POSH Vault)",
+        "Anti-Ragging Squad & Statutory Undertakings"
+      ],
+      "complianceLinks": [
+        "RTI Act 2005 - Section 4(1)(b) Proactive Manual",
+        "UGC / NCTE Recognition Approvals",
+        "Sports Sciences Ethical Board (SSEB)",
+        "e-Procurement GeM & Punjab e-Tenders",
+        "Employee Digital e-Office Portal",
+        "National Sports Development Code of India"
+      ],
+      "certifications": [
+        {
+          "icon": "/footer/tick.png",
+          "title": "GIGW 3.0 & WCAG 2.1 AA",
+          "detail": "Standard Web Guidelines Certified"
+        },
+        {
+          "icon": "/footer/shield.png",
+          "title": "STQC & ISO 9001:2015",
+          "detail": "Institutional Quality Benchmarked"
+        },
+        {
+          "icon": "/footer/cloud.png",
+          "title": "MeitY Tier-III Cloud Hosted",
+          "detail": "National Informatics Centre Ready"
+        }
+      ],
+      "footerLinks": [
+        "Terms of Usage",
+        "Privacy Policy",
+        "Hyperlinking Policy",
+        "Copyright Policy",
+        "Help & Accessibility",
+        "Feedback & Grievance"
+      ]
+    }
+  }
+}
